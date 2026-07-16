@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-16",
+  "tasks": [
+    {
+      "id": 1,
+      "priority": "high",
+      "area": "job",
+      "task": "Open the Chicago Public Schools posting from LinkedIn (program development / instructional practices), tailor resume in job-description-viewer, apply",
+      "why": "LinkedIn alert landed 00:49 last night — postings go stale fast",
+      "done": false
+    },
+    {
+      "id": 2,
+      "priority": "high",
+      "area": "medchat",
+      "task": "Message ONE healthcare professional about MedChat today (start with warm contacts from the NPI list)",
+      "why": "standing daily goal — Mr. Bond deliverable, next call ~April",
+      "done": false
+    },
+    {
+      "id": 3,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch ONE DJ or venue with a setlist demo link (pick from amapiano crate contacts)",
+      "why": "standing daily goal — outreach compounds, zero sent this week",
+      "done": false
+    },
+    {
+      "id": 4,
+      "priority": "med",
+      "area": "inbox",
+      "task": "Add Gmail filter: from:notifications@github.com subject:'Run failed' → skip inbox, label CI — then reply to anything human that surfaces",
+      "why": "20+ CI failure emails in the last day are burying real mail (the LinkedIn alert almost drowned)",
+      "done": false
+    },
+    {
+      "id": 5,
+      "priority": "low",
+      "area": "home",
+      "task": "Recycling out Monday night",
+      "why": "pickup Tuesday — stop treating it as the only calendar item",
+      "done": false
+    }
+  ]
+}
