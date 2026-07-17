@@ -28,3 +28,26 @@ git push -q || true
 TOP=$(python3 -c "import json; t=[x for x in json.load(open('tasks.json'))['tasks'] if not x['done']]; print(t[0]['task'] if t else 'all clear')")
 osascript -e "display notification \"$TOP\" with title \"Manager: today's #1\""
 echo "brief done: $TOP"
+
+# job-hunt brief: committed to AssiamahS/scipio briefs/ by the cloud routine ~7:38am
+GH=""
+for g in /opt/homebrew/bin/gh /usr/local/bin/gh; do [ -x "$g" ] && GH="$g" && break; done
+if [ -n "$GH" ]; then
+  JH=$("$GH" api "repos/AssiamahS/scipio/contents/briefs/$(date +%Y-%m-%d).md" -q .content 2>/dev/null | base64 -d || true)
+  if [ -n "$JH" ]; then
+    SUMMARY=$(echo "$JH" | python3 -c "
+import sys, re
+t = sys.stdin.read()
+new = len(re.findall(r'^\d+\. \*\*', t, re.M))
+stalled = 0 if re.search(r'## Stalled.*\n+Nothing', t) else len(re.findall(r'^- \*\*', t, re.M)) or 1
+parts = []
+parts.append(f'{stalled} stalled — needs your click' if stalled else 'nothing stalled')
+parts.append(f'{new} new posting{\"s\" if new != 1 else \"\"}')
+print(', '.join(parts))
+")
+    osascript -e "display notification \"$SUMMARY — details: scipio/briefs on GitHub\" with title \"Job hunt: $(date +%m/%d)\""
+    echo "job-hunt: $SUMMARY"
+  else
+    echo "job-hunt: no brief for today (routine not run yet or failed)"
+  fi
+fi
