@@ -1,44 +1,60 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-21",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Open the Chicago Public Schools posting from LinkedIn (program development / instructional practices), tailor resume in job-description-viewer, apply",
-      "why": "LinkedIn alert landed 00:49 last night — postings go stale fast",
+      "task": "Enter Greenhouse security codes for Komodo Health (iIea1Nfm), Oscar Health (l2XkJ2FO), and eClinical Solutions (7jLKc8ap) to complete pending applications",
+      "why": "3 Greenhouse verification emails received today \u2014 codes expire, applications stall without them",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Message ONE healthcare professional about MedChat today (start with warm contacts from the NPI list)",
-      "why": "standing daily goal — Mr. Bond deliverable, next call ~April",
+      "area": "inbox",
+      "task": "Call Mom back \u2014 she left a voicemail at 3:11 PM today",
+      "why": "VM from Mom aka The Best Ever <3333 at (732) 310-6395",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch ONE DJ or venue with a setlist demo link (pick from amapiano crate contacts)",
-      "why": "standing daily goal — outreach compounds, zero sent this week",
+      "area": "inbox",
+      "task": "Call Juelz Santana back at (732) 586-6629 \u2014 he's called 4+ times since yesterday",
+      "why": "Repeated missed calls Mon and Tue, no message left \u2014 persistent = urgent to him",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Add Gmail filter: from:notifications@github.com subject:'Run failed' → skip inbox, label CI — then reply to anything human that surfaces",
-      "why": "20+ CI failure emails in the last day are burying real mail (the LinkedIn alert almost drowned)",
+      "area": "job",
+      "task": "Review and apply to Automation Developer (AI) role at Acosta via LinkedIn \u2014 tailor resume to AI/automation keywords",
+      "why": "LinkedIn job alert today + standing goal: act on one posting daily",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat user research \u2014 send cold outreach or follow up on a warm lead",
+      "why": "Standing Mr. Bond deliverable: one HCP contact per day",
+      "done": false
+    },
+    {
+      "id": 6,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link with a short intro",
+      "why": "Standing goal: one music outreach per day",
+      "done": false
+    },
+    {
+      "id": 7,
       "priority": "low",
-      "area": "home",
-      "task": "Recycling out Monday night",
-      "why": "pickup Tuesday — stop treating it as the only calendar item",
+      "area": "job",
+      "task": "Add beneficiary to Fidelity NTT DATA 401(k) plan",
+      "why": "Fidelity email: missing beneficiary info on retirement account \u2014 not urgent but easy 5-min task",
       "done": false
     }
   ]
