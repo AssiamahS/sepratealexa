@@ -1,0 +1,1 @@
+- launchd calendar jobs: no /tmp log files ever = job never ran, not 'ran and failed'. Root causes stacked: bare launchd PATH killed node (claude CLI), then -p prompt placed after variadic --allowedTools got swallowed as a tool name. Fix: PATH export in script, prompt BEFORE --allowedTools, RunAtLoad+daily-date guard for missed 8AMs. (2026-07-21)
