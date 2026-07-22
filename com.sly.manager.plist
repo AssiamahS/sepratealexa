@@ -16,6 +16,8 @@
         <key>Minute</key>
         <integer>0</integer>
     </dict>
+    <key>RunAtLoad</key>
+    <true/>
     <key>StandardOutPath</key>
     <string>/tmp/manager.log</string>
     <key>StandardErrorPath</key>

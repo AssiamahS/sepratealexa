@@ -4,6 +4,17 @@
 set -e
 cd "$(dirname "$0")"
 
+# launchd ships a bare PATH — claude/node/gh live in homebrew
+export PATH="/opt/homebrew/bin:/usr/local/bin:$HOME/.local/bin:$PATH"
+
+# idempotent: RunAtLoad + 8am can both fire; only build one brief per day.
+# FORCE=1 ./run_brief.sh to regenerate.
+TODAY=$(date +%Y-%m-%d)
+if [ "${FORCE:-0}" != "1" ] && [ "$(python3 -c "import json; print(json.load(open('tasks.json'))['date'])" 2>/dev/null)" = "$TODAY" ]; then
+  echo "brief for $TODAY already exists, skipping"
+  exit 0
+fi
+
 git pull --rebase -q || true
 
 CLAUDE=""
