@@ -25,12 +25,19 @@ done
 
 BRIEF=$(env -u CLAUDECODE -u CLAUDE_CODE_ENTRYPOINT "$CLAUDE" -p "$(cat MANAGER.md)
 
-Today is $(date +%Y-%m-%d).")
+Today is $(date '+%Y-%m-%d (%A)')." \
+  --allowedTools "mcp__claude_ai_Gmail")
 
-# accept only valid JSON so a chatty reply can't corrupt the task file
-echo "$BRIEF" | python3 -c "import json,sys; json.load(sys.stdin)" \
-  && echo "$BRIEF" > tasks.json \
-  || { echo "brief was not valid JSON, keeping yesterday's tasks"; exit 1; }
+# salvage the JSON object even if the reply has a preamble; validate before writing
+echo "$BRIEF" | python3 -c "
+import json, sys
+raw = sys.stdin.read()
+start, end = raw.find('{'), raw.rfind('}')
+if start < 0 or end < start: sys.exit(1)
+obj = json.loads(raw[start:end + 1])
+assert obj.get('date') and obj.get('tasks'), 'missing date/tasks'
+open('tasks.json', 'w').write(json.dumps(obj, indent=2) + '\n')
+" || { echo "brief was not valid JSON, keeping yesterday's tasks"; exit 1; }
 
 git add tasks.json
 git commit -q -m "brief: $(date +%Y-%m-%d)" || true
