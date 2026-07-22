@@ -1,60 +1,44 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Enter Greenhouse security codes for Komodo Health (iIea1Nfm), Oscar Health (l2XkJ2FO), and eClinical Solutions (7jLKc8ap) to complete pending applications",
-      "why": "3 Greenhouse verification emails received today \u2014 codes expire, applications stall without them",
+      "task": "Review and apply to CareTalk Health Associate PM role from Indeed match ($90-110k remote)",
+      "why": "Indeed match email received today \u2014 strong fit signal, apply while warm",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Call Mom back \u2014 she left a voicemail at 3:11 PM today",
-      "why": "VM from Mom aka The Best Ever <3333 at (732) 310-6395",
+      "area": "medchat",
+      "task": "Connect with Hailey Patel PA-C on LinkedIn and pitch MedChat",
+      "why": "LinkedIn suggested adding her today \u2014 healthcare professional, Mr. Bond deliverable",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
       "area": "inbox",
-      "task": "Call Juelz Santana back at (732) 586-6629 \u2014 he's called 4+ times since yesterday",
-      "why": "Repeated missed calls Mon and Tue, no message left \u2014 persistent = urgent to him",
+      "task": "Fix scipio auto-apply GitHub Actions workflow (main branch, run failed)",
+      "why": "CI failure email \u2014 auto-apply pipeline is broken, blocking automated applications",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "job",
-      "task": "Review and apply to Automation Developer (AI) role at Acosta via LinkedIn \u2014 tailor resume to AI/automation keywords",
-      "why": "LinkedIn job alert today + standing goal: act on one posting daily",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano setlist or booking",
+      "why": "Standing daily goal \u2014 music business outreach",
       "done": false
     },
     {
       "id": 5,
-      "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat user research \u2014 send cold outreach or follow up on a warm lead",
-      "why": "Standing Mr. Bond deliverable: one HCP contact per day",
-      "done": false
-    },
-    {
-      "id": 6,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link with a short intro",
-      "why": "Standing goal: one music outreach per day",
-      "done": false
-    },
-    {
-      "id": 7,
       "priority": "low",
-      "area": "job",
-      "task": "Add beneficiary to Fidelity NTT DATA 401(k) plan",
-      "why": "Fidelity email: missing beneficiary info on retirement account \u2014 not urgent but easy 5-min task",
+      "area": "inbox",
+      "task": "RSVP for iMentor NYC virtual info session on 8/15",
+      "why": "Eventbrite notification \u2014 mentorship networking opportunity, no rush",
       "done": false
     }
   ]
