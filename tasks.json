@@ -1,44 +1,44 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Review and apply to CareTalk Health Associate PM role from Indeed match ($90-110k remote)",
-      "why": "Indeed match email received today \u2014 strong fit signal, apply while warm",
+      "task": "Apply to Associate Product Manager at CareTalk Health ($90-110K remote) \u2014 Indeed flagged it as a strong match for your PM + data analysis experience",
+      "why": "Indeed match email received 2026-07-22; healthcare PM role aligns with target",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Connect with Hailey Patel PA-C on LinkedIn and pitch MedChat",
-      "why": "LinkedIn suggested adding her today \u2014 healthcare professional, Mr. Bond deliverable",
+      "area": "job",
+      "task": "Verify all Greenhouse security codes from yesterday's batch were submitted (Pomelo Care, Blue Water Thinking, Modern Health, Interwell Health, Cohere Health, Tebra) \u2014 resubmit any that expired",
+      "why": "6 Greenhouse confirmation emails from 2026-07-22; unsubmitted codes may have expired overnight",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "inbox",
-      "task": "Fix scipio auto-apply GitHub Actions workflow (main branch, run failed)",
-      "why": "CI failure email \u2014 auto-apply pipeline is broken, blocking automated applications",
+      "priority": "high",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat \u2014 target a pharmacist or drug safety specialist, use the Eventbrite 'Careers in Drug Safety' webinar (Aug 3) as a conversation opener",
+      "why": "Standing Mr. Bond deliverable; drug safety webinar provides warm intro angle",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for amapiano setlist or booking",
-      "why": "Standing daily goal \u2014 music business outreach",
+      "task": "Pitch one DJ or venue for an amapiano set \u2014 send a setlist or mix link with a short intro",
+      "why": "Standing daily priority; music business development",
       "done": false
     },
     {
       "id": 5,
-      "priority": "low",
-      "area": "inbox",
-      "task": "RSVP for iMentor NYC virtual info session on 8/15",
-      "why": "Eventbrite notification \u2014 mentorship networking opportunity, no rush",
+      "priority": "med",
+      "area": "job",
+      "task": "Check LinkedIn job alerts: Intelex Technologies (remote) and Vanguard (Junior Mobile Engineer) \u2014 apply if aligned",
+      "why": "LinkedIn job alert emails from 2026-07-22",
       "done": false
     }
   ]
