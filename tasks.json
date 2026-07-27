@@ -1,44 +1,44 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-27",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Apply to Associate Product Manager at CareTalk Health ($90-110K remote) \u2014 Indeed flagged it as a strong match for your PM + data analysis experience",
-      "why": "Indeed match email received 2026-07-22; healthcare PM role aligns with target",
+      "task": "Pick one open role from LinkedIn or Indeed alerts and submit a tailored application today",
+      "why": "Standing daily goal: act on one posting per day to maintain pipeline momentum",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Verify all Greenhouse security codes from yesterday's batch were submitted (Pomelo Care, Blue Water Thinking, Modern Health, Interwell Health, Cohere Health, Tebra) \u2014 resubmit any that expired",
-      "why": "6 Greenhouse confirmation emails from 2026-07-22; unsubmitted codes may have expired overnight",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat -- cold message a nurse practitioner or clinical pharmacist on LinkedIn with a specific pain-point hook",
+      "why": "Standing Mr. Bond deliverable; weekly outreach cadence keeps pipeline alive",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 target a pharmacist or drug safety specialist, use the Eventbrite 'Careers in Drug Safety' webinar (Aug 3) as a conversation opener",
-      "why": "Standing Mr. Bond deliverable; drug safety webinar provides warm intro angle",
-      "done": false
-    },
-    {
-      "id": 4,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for an amapiano set \u2014 send a setlist or mix link with a short intro",
+      "task": "Pitch one DJ, lounge, or event promoter for an amapiano set -- send a short intro with a mix link or setlist",
       "why": "Standing daily priority; music business development",
       "done": false
     },
     {
+      "id": 4,
+      "priority": "high",
+      "area": "home",
+      "task": "Put recycling bins out tonight -- pickup is Tuesday morning",
+      "why": "Recurring Monday-night chore; miss it and you wait another week",
+      "done": false
+    },
+    {
       "id": 5,
-      "priority": "med",
-      "area": "job",
-      "task": "Check LinkedIn job alerts: Intelex Technologies (remote) and Vanguard (Junior Mobile Engineer) \u2014 apply if aligned",
-      "why": "LinkedIn job alert emails from 2026-07-22",
+      "priority": "low",
+      "area": "inbox",
+      "task": "Triage inbox manually -- Gmail connector was unavailable for today's brief; check for human replies and job alerts from the weekend",
+      "why": "No automated Gmail scan this morning; two days of mail may contain time-sensitive items",
       "done": false
     }
   ]
