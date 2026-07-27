@@ -47,6 +47,10 @@ TOP=$(python3 -c "import json; t=[x for x in json.load(open('tasks.json'))['task
 osascript -e "display notification \"$TOP\" with title \"Manager: today's #1\""
 echo "brief done: $TOP"
 
+# echo show: top task + count, via Notify Me skill (needs ~/.notifyme_code)
+N=$(python3 -c "import json; print(len([x for x in json.load(open('tasks.json'))['tasks'] if not x['done']]))")
+./bin/notify-echo "Manager brief: $N tasks today. Number one: $TOP" || echo "echo notify skipped"
+
 # job-hunt brief: committed to AssiamahS/scipio briefs/ by the cloud routine ~7:38am
 GH=""
 for g in /opt/homebrew/bin/gh /usr/local/bin/gh; do [ -x "$g" ] && GH="$g" && break; done
