@@ -18,7 +18,7 @@ HTTP=$(curl -sS -o /tmp/nofime-resp.txt -w '%{http_code}' \
   -H 'Content-Type: application/json' \
   --data "$(python3 -c "import json,sys; print(json.dumps({'notification': sys.argv[1], 'accessCode': sys.argv[2]}))" "$MSG" "$CODE")")
 
-if [ "$HTTP" = "200" ]; then
+if [ "${HTTP:0:1}" = "2" ]; then
   echo "sent: $MSG"
 else
   echo "nofime: HTTP $HTTP — $(cat /tmp/nofime-resp.txt)" >&2
