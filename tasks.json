@@ -1,44 +1,60 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Pick one open role from LinkedIn or Indeed alerts and submit a tailored application today",
-      "why": "Standing daily goal: act on one posting per day to maintain pipeline momentum",
+      "task": "Submit security code iHMIGEYV to complete eClinical Solutions application",
+      "why": "Greenhouse email with code received 2026-07-27 12:05 \u2014 application incomplete without it",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat -- cold message a nurse practitioner or clinical pharmacist on LinkedIn with a specific pain-point hook",
-      "why": "Standing Mr. Bond deliverable; weekly outreach cadence keeps pipeline alive",
+      "area": "inbox",
+      "task": "Listen to voicemail from Rosanna (551) 201-0583 and return call if needed",
+      "why": "YouMail VM received 2026-07-27 \u2014 real human, may be recruiter or personal contact",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ, lounge, or event promoter for an amapiano set -- send a short intro with a mix link or setlist",
-      "why": "Standing daily priority; music business development",
+      "area": "job",
+      "task": "Review and apply to Project Manager - EPMO at US Anesthesia Partners via Indeed ($89-151k)",
+      "why": "Indeed match email 2026-07-28 \u2014 healthcare-adjacent PM role, strong fit",
       "done": false
     },
     {
       "id": 4,
-      "priority": "high",
-      "area": "home",
-      "task": "Put recycling bins out tonight -- pickup is Tuesday morning",
-      "why": "Recurring Monday-night chore; miss it and you wait another week",
+      "priority": "med",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
+      "why": "Standing daily goal \u2014 one outreach per day",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano set or playlist collab",
+      "why": "Standing daily goal \u2014 one music outreach per day",
+      "done": false
+    },
+    {
+      "id": 6,
       "priority": "low",
-      "area": "inbox",
-      "task": "Triage inbox manually -- Gmail connector was unavailable for today's brief; check for human replies and job alerts from the weekend",
-      "why": "No automated Gmail scan this morning; two days of mail may contain time-sensitive items",
+      "area": "job",
+      "task": "Register for Careers in Drug Safety & Pharmacovigilance webinar on Aug 3",
+      "why": "Eventbrite invite received 2026-07-27 \u2014 pharma career networking opportunity",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "home",
+      "task": "Confirm recycling bins are at curb for Tuesday pickup",
+      "why": "Recurring \u2014 pickup is today",
       "done": false
     }
   ]
