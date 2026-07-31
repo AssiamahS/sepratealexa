@@ -1,28 +1,36 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Find one open role matching your profile, tailor resume/cover letter, and submit application",
-      "why": "Standing daily goal \u2014 job hunt: act on one posting today",
+      "task": "Find one relevant posting (LinkedIn/Workday/NYU Langone), tailor resume and apply",
+      "why": "standing goal \u2014 daily job hunt cadence",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "medchat",
-      "task": "Identify and reach out to one healthcare professional for MedChat feedback",
-      "why": "Standing daily goal \u2014 Mr. Bond deliverable requires HCP outreach",
+      "task": "Identify and reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
+      "why": "standing goal \u2014 weekly outreach quota, Friday is last chance this week",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or music business with a setlist or amapiano collaboration proposal",
-      "why": "Standing daily goal \u2014 grow music/DJ network",
+      "task": "Pitch one DJ or venue with a setlist or amapiano mix link",
+      "why": "standing goal \u2014 weekly music business outreach",
+      "done": false
+    },
+    {
+      "id": 4,
+      "priority": "low",
+      "area": "inbox",
+      "task": "Triage unread inbox \u2014 reply to any real humans waiting on you",
+      "why": "standing goal \u2014 inbox zero Friday sweep",
       "done": false
     }
   ]
