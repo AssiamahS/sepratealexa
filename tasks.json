@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
       "task": "Find one relevant posting (LinkedIn/Workday/NYU Langone), tailor resume and apply",
-      "why": "standing goal \u2014 daily job hunt cadence",
+      "why": "standing goal \u2014 daily job hunt cadence, Saturday is good for unhurried applications",
       "done": false
     },
     {
@@ -14,7 +14,7 @@
       "priority": "high",
       "area": "medchat",
       "task": "Identify and reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
-      "why": "standing goal \u2014 weekly outreach quota, Friday is last chance this week",
+      "why": "standing goal \u2014 new week starts Monday, get ahead on outreach quota",
       "done": false
     },
     {
@@ -22,15 +22,23 @@
       "priority": "med",
       "area": "music",
       "task": "Pitch one DJ or venue with a setlist or amapiano mix link",
-      "why": "standing goal \u2014 weekly music business outreach",
+      "why": "standing goal \u2014 weekend is prime time for music outreach, DJs plan sets",
       "done": false
     },
     {
       "id": 4,
+      "priority": "med",
+      "area": "home",
+      "task": "Put recycling out tonight \u2014 pickup is Tuesday but Monday night is the deadline",
+      "why": "recurring \u2014 recycling goes out Monday night, plan ahead since tomorrow is Sunday",
+      "done": false
+    },
+    {
+      "id": 5,
       "priority": "low",
       "area": "inbox",
       "task": "Triage unread inbox \u2014 reply to any real humans waiting on you",
-      "why": "standing goal \u2014 inbox zero Friday sweep",
+      "why": "standing goal \u2014 weekend inbox sweep, clear backlog before Monday",
       "done": false
     }
   ]
