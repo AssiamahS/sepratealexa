@@ -1,44 +1,60 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Find one relevant posting (LinkedIn/Workday/NYU Langone), tailor resume and apply",
-      "why": "standing goal \u2014 daily job hunt cadence, Saturday is good for unhurried applications",
+      "task": "Apply to one role from today's LinkedIn/Built In alerts \u2014 Optum PM ($72-130k remote) or TCS Software Developer look strongest. Tailor resume and submit.",
+      "why": "Standing goal + two rejections landed (eClinical, Blue Water Thinking) \u2014 pipeline needs refilling",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Identify and reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
-      "why": "standing goal \u2014 new week starts Monday, get ahead on outreach quota",
+      "area": "inbox",
+      "task": "Resolve BeenVerified billing failure \u2014 update payment or cancel membership to stop retry charges",
+      "why": "Email from support@beenverified.com: unable to process payment, membership 304385317",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue with a setlist or amapiano mix link",
-      "why": "standing goal \u2014 weekend is prime time for music outreach, DJs plan sets",
+      "area": "inbox",
+      "task": "Enable auto-renew for sylvesterassiamah.com on Cloudflare before Oct 11 expiry",
+      "why": "Cloudflare 60-day renewal notice \u2014 domain is NOT set to auto-renew",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "home",
-      "task": "Put recycling out tonight \u2014 pickup is Tuesday but Monday night is the deadline",
-      "why": "recurring \u2014 recycling goes out Monday night, plan ahead since tomorrow is Sunday",
+      "area": "medchat",
+      "task": "Message one healthcare professional about MedChat \u2014 Mr. Bond deliverable",
+      "why": "Standing daily goal",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano set \u2014 send setlist or booking inquiry",
+      "why": "Standing daily goal",
+      "done": false
+    },
+    {
+      "id": 6,
       "priority": "low",
       "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any real humans waiting on you",
-      "why": "standing goal \u2014 weekend inbox sweep, clear backlog before Monday",
+      "task": "Investigate 4 missed calls from (732) 570-2720 (no voicemail left) \u2014 Google the number or call back",
+      "why": "YouMail alerts: same number called 4x between 7:17-8:55 PM yesterday",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "home",
+      "task": "Put recycling out tomorrow night (Monday) for Tuesday pickup",
+      "why": "Recurring weekly task",
       "done": false
     }
   ]
