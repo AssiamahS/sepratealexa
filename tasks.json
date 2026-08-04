@@ -1,60 +1,36 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Apply to one role from today's LinkedIn/Built In alerts \u2014 Optum PM ($72-130k remote) or TCS Software Developer look strongest. Tailor resume and submit.",
-      "why": "Standing goal + two rejections landed (eClinical, Blue Water Thinking) \u2014 pipeline needs refilling",
+      "task": "Find one open posting (LinkedIn/Workday/NYU Langone), tailor resume, and submit application today",
+      "why": "standing goal \u2014 act on one posting daily",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Resolve BeenVerified billing failure \u2014 update payment or cancel membership to stop retry charges",
-      "why": "Email from support@beenverified.com: unable to process payment, membership 304385317",
+      "area": "medchat",
+      "task": "Identify and reach out to one healthcare professional for Mr. Bond deliverable",
+      "why": "standing goal \u2014 one HCP outreach per day",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "inbox",
-      "task": "Enable auto-renew for sylvesterassiamah.com on Cloudflare before Oct 11 expiry",
-      "why": "Cloudflare 60-day renewal notice \u2014 domain is NOT set to auto-renew",
+      "area": "music",
+      "task": "Pitch one DJ or business with a setlist or amapiano proposal",
+      "why": "standing goal \u2014 one music pitch per day",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Message one healthcare professional about MedChat \u2014 Mr. Bond deliverable",
-      "why": "Standing daily goal",
-      "done": false
-    },
-    {
-      "id": 5,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for amapiano set \u2014 send setlist or booking inquiry",
-      "why": "Standing daily goal",
-      "done": false
-    },
-    {
-      "id": 6,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Investigate 4 missed calls from (732) 570-2720 (no voicemail left) \u2014 Google the number or call back",
-      "why": "YouMail alerts: same number called 4x between 7:17-8:55 PM yesterday",
-      "done": false
-    },
-    {
-      "id": 7,
-      "priority": "low",
       "area": "home",
-      "task": "Put recycling out tomorrow night (Monday) for Tuesday pickup",
-      "why": "Recurring weekly task",
+      "task": "Take recycling out tonight \u2014 pickup is Tuesday morning",
+      "why": "recurring Monday-night task",
       "done": false
     }
   ]
