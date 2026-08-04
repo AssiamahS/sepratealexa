@@ -1,36 +1,52 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Find one open posting (LinkedIn/Workday/NYU Langone), tailor resume, and submit application today",
-      "why": "standing goal \u2014 act on one posting daily",
+      "area": "inbox",
+      "task": "settle Hetzner invoice 089001093653 \u2014 update credit card or pay manually via the direct link",
+      "why": "billing@hetzner.com: credit card charge failed, asks for immediate settlement",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Identify and reach out to one healthcare professional for Mr. Bond deliverable",
-      "why": "standing goal \u2014 one HCP outreach per day",
+      "area": "inbox",
+      "task": "resubmit Twilio toll-free verification for +18555608459 with corrected business contact/email/address/URL",
+      "why": "trusthub-verify@twilio.com: rejection code 30445, business info could not be verified \u2014 blocks SlyAI SMS",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or business with a setlist or amapiano proposal",
-      "why": "standing goal \u2014 one music pitch per day",
+      "priority": "high",
+      "area": "job",
+      "task": "apply to Junior AWS Cloud Developer at GuruSchools LLC (LinkedIn alert posted 8/2) \u2014 tailor resume to AWS + cloud skills",
+      "why": "standing goal: act on one posting today; fresh LinkedIn alert in inbox",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "home",
-      "task": "Take recycling out tonight \u2014 pickup is Tuesday morning",
-      "why": "recurring Monday-night task",
+      "area": "medchat",
+      "task": "reach out to one healthcare professional on LinkedIn \u2014 Krystal Phan (PharmD candidate, MCPHS) is already in inbox as a connection suggestion",
+      "why": "standing goal: Mr. Bond deliverable, one HCP outreach per day",
+      "done": false
+    },
+    {
+      "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "pitch one DJ or venue for an amapiano set \u2014 send setlist or mix link",
+      "why": "standing goal: one music pitch per day",
+      "done": false
+    },
+    {
+      "id": 6,
+      "priority": "low",
+      "area": "inbox",
+      "task": "check voicemail from (732) 379-2127 \u2014 27-second message left yesterday 6:40 AM",
+      "why": "youmail notification: actual voicemail (not a missed call), could be a recruiter or contact",
       "done": false
     }
   ]
