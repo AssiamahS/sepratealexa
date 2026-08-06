@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-06",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Complete Victra start-date form and AI video interview \u2014 both links are live now",
-      "why": "Victra/Paradox emails today: background check done (flagged item reported), start-date form pending, plus 10-min video screen link sent",
+      "task": "Complete the Victra Start Date form \u2014 link is in the Paradox/Victoria email from 11:28 AM today",
+      "why": "Victra sent 'Complete your Start Date form for Sales Consultant' \u2014 time-sensitive onboarding step",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Review Checkr background-check results \u2014 information reported that 'could potentially impact employment'",
-      "why": "Checkr email: 'Information is being reported that could potentially impact your employment.' Log in and check what was flagged before Victra sees it",
+      "task": "Review Checkr background check results \u2014 the email says information could 'potentially impact your employment'",
+      "why": "Checkr email from 11:27 AM: 'Your ABC Phones / Victra background check is complete' with a flag",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
       "area": "job",
-      "task": "Apply to one additional role today (tailor resume + submit)",
-      "why": "Standing daily goal \u2014 don't put all eggs in the Victra basket while the background flag is unresolved",
+      "task": "Apply to Sr. Digital Developer at American Heart Association (LinkedIn alert) \u2014 tailor resume and submit",
+      "why": "Standing daily goal: act on one posting. AHA role surfaced in today's LinkedIn alerts",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
-      "why": "Standing daily goal \u2014 one outreach per day",
+      "task": "Reach out to one healthcare professional for MedChat pilot feedback (Mr. Bond deliverable)",
+      "why": "Standing daily goal: one HCP outreach per day",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for an amapiano set or collab",
-      "why": "Standing daily goal \u2014 one music outreach per day",
+      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist and availability",
+      "why": "Standing daily goal: one music business outreach per day",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
       "area": "inbox",
-      "task": "Decide on Google One 100 GB \u2014 introductory price ends Aug 13",
-      "why": "Google Play reminder: auto-charge hits in 9 days, cancel or keep",
+      "task": "Cancel or downgrade Google One before Aug 13 if not needed \u2014 introductory price ending",
+      "why": "Google Play email: 'Your introductory price for Google One (100 GB) will end on Aug 13, 2026'",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "job",
+      "task": "Enter Parachute Health security code VLgxb1x1 to finish that application (may have expired)",
+      "why": "Greenhouse email from 3:28 PM with one-time security code for Parachute Health app",
       "done": false
     }
   ]
