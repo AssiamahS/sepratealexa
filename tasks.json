@@ -1,52 +1,44 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Apply to AIG Cyber Security Data Developer role from LinkedIn alert \u2014 tailor resume and submit",
-      "why": "LinkedIn job alert received 2026-08-09; standing daily goal to act on one posting",
+      "task": "Find one open role (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
+      "why": "Standing goal \u2014 daily job-hunt action required",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Regenerate revoked Apple dev certificates and update provisioning profiles",
-      "why": "5 certificate-revocation emails from Apple (2026-08-08 22:31) \u2014 flashdeck CI is already failing",
+      "area": "medchat",
+      "task": "Identify and reach out to one healthcare professional for MedChat pilot feedback",
+      "why": "Standing goal \u2014 Mr. Bond deliverable, need consistent outreach pipeline",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "inbox",
-      "task": "Check BofA debit card (ending 1956) removed from Apple Pay \u2014 confirm intentional or re-add",
-      "why": "BofA alert 2026-08-09 05:52 \u2014 card deleted, could affect daily payments",
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue with a curated setlist or amapiano mix link",
+      "why": "Standing goal \u2014 grow music business pipeline",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 Mr. Bond deliverable",
-      "why": "Standing daily priority",
+      "area": "inbox",
+      "task": "Triage unread inbox \u2014 reply to any humans awaiting response, flag deadlines",
+      "why": "Unable to auto-scan Gmail this session; manual pass needed",
       "done": false
     },
     {
       "id": 5,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for amapiano set / setlist collab",
-      "why": "Standing daily priority",
-      "done": false
-    },
-    {
-      "id": 6,
       "priority": "low",
       "area": "home",
-      "task": "Put recycling out tonight \u2014 pickup is Tuesday morning",
-      "why": "Recurring Monday-night task",
+      "task": "Confirm recycling bins were put out last night (pickup is today, Tuesday)",
+      "why": "Recurring \u2014 Tuesday morning pickup",
       "done": false
     }
   ]
