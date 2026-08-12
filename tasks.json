@@ -1,44 +1,60 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Find one open role (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
-      "why": "Standing goal \u2014 daily job-hunt action required",
+      "area": "inbox",
+      "task": "Call back ayo brendan at (973) 342-4819 \u2014 missed call yesterday with no voicemail",
+      "why": "real human awaiting callback, YouMail notification 2026-08-11 1:48 PM",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Identify and reach out to one healthcare professional for MedChat pilot feedback",
-      "why": "Standing goal \u2014 Mr. Bond deliverable, need consistent outreach pipeline",
+      "area": "inbox",
+      "task": "Fix flash-deck build issues (builds 6-10 all flagged by Apple) and resubmit a clean binary",
+      "why": "4 consecutive Apple emails: 'Action needed: The uploaded build for flash-deck has one or more issues'",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue with a curated setlist or amapiano mix link",
-      "why": "Standing goal \u2014 grow music business pipeline",
+      "priority": "high",
+      "area": "job",
+      "task": "Apply to AWS Data Engineer at TCS (or one fresh posting) \u2014 tailor resume and submit",
+      "why": "standing daily goal + LinkedIn job alert received 2026-08-11",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans awaiting response, flag deadlines",
-      "why": "Unable to auto-scan Gmail this session; manual pass needed",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
+      "why": "standing daily goal \u2014 MedChat outreach",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for a setlist / amapiano booking",
+      "why": "standing daily goal \u2014 music business development",
+      "done": false
+    },
+    {
+      "id": 6,
       "priority": "low",
-      "area": "home",
-      "task": "Confirm recycling bins were put out last night (pickup is today, Tuesday)",
-      "why": "Recurring \u2014 Tuesday morning pickup",
+      "area": "inbox",
+      "task": "Investigate unknown caller (732) 570-2720 \u2014 three missed calls yesterday evening, no message",
+      "why": "YouMail triple notification 2026-08-11 4:40 PM, could be recruiter or spam",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "inbox",
+      "task": "Register for MediPharm Solutions 'Career opportunities in Clinical Research' Eventbrite event",
+      "why": "Eventbrite alert 2026-08-11 \u2014 healthcare-adjacent career event, aligns with job hunt",
       "done": false
     }
   ]
