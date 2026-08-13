@@ -1,60 +1,52 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Call back ayo brendan at (973) 342-4819 \u2014 missed call yesterday with no voicemail",
-      "why": "real human awaiting callback, YouMail notification 2026-08-11 1:48 PM",
+      "task": "Reply to Alaniyi at Plaid \u2014 third follow-up, explain what you're building with their API and schedule a quick call",
+      "why": "Real human (alaniyi@plaid.com) bumped thread 3x since Aug 8, explicitly offering a short phone call",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Fix flash-deck build issues (builds 6-10 all flagged by Apple) and resubmit a clean binary",
-      "why": "4 consecutive Apple emails: 'Action needed: The uploaded build for flash-deck has one or more issues'",
+      "area": "job",
+      "task": "Tailor resume and apply to Truist Associate Software Engineer via LinkedIn",
+      "why": "LinkedIn job alert received yesterday \u2014 standing daily goal to act on one posting",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
-      "area": "job",
-      "task": "Apply to AWS Data Engineer at TCS (or one fresh posting) \u2014 tailor resume and submit",
-      "why": "standing daily goal + LinkedIn job alert received 2026-08-11",
+      "area": "inbox",
+      "task": "Call back Juelz Santana at (732) 586-6629 \u2014 missed call last night, no voicemail",
+      "why": "YouMail missed-call alert 2026-08-12 7:11 PM, potential music or personal contact",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
-      "why": "standing daily goal \u2014 MedChat outreach",
+      "task": "Reach out to one healthcare professional for MedChat feedback or demo",
+      "why": "Standing Mr. Bond deliverable \u2014 one outreach per day",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for a setlist / amapiano booking",
-      "why": "standing daily goal \u2014 music business development",
+      "task": "Pitch one DJ or venue with a setlist or amapiano mix link",
+      "why": "Standing daily goal \u2014 one music business outreach per day",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
-      "area": "inbox",
-      "task": "Investigate unknown caller (732) 570-2720 \u2014 three missed calls yesterday evening, no message",
-      "why": "YouMail triple notification 2026-08-11 4:40 PM, could be recruiter or spam",
-      "done": false
-    },
-    {
-      "id": 7,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Register for MediPharm Solutions 'Career opportunities in Clinical Research' Eventbrite event",
-      "why": "Eventbrite alert 2026-08-11 \u2014 healthcare-adjacent career event, aligns with job hunt",
+      "area": "job",
+      "task": "RSVP for Careers in Drug Safety & Pharmacovigilance webinar on Aug 17",
+      "why": "Eventbrite invite received yesterday \u2014 healthcare-adjacent networking, free",
       "done": false
     }
   ]
