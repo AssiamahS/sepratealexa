@@ -1,52 +1,44 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-22",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Reply to Alaniyi at Plaid \u2014 third follow-up, explain what you're building with their API and schedule a quick call",
-      "why": "Real human (alaniyi@plaid.com) bumped thread 3x since Aug 8, explicitly offering a short phone call",
+      "area": "job",
+      "task": "Apply to PwC AI Engineer role from LinkedIn job alert \u2014 tailor resume and submit",
+      "why": "LinkedIn job alert received 2026-08-21; standing daily goal to act on one posting",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Tailor resume and apply to Truist Associate Software Engineer via LinkedIn",
-      "why": "LinkedIn job alert received yesterday \u2014 standing daily goal to act on one posting",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat user research (Mr. Bond deliverable)",
+      "why": "Standing daily priority \u2014 Saturday is a good day for warm LinkedIn/email outreach",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "inbox",
-      "task": "Call back Juelz Santana at (732) 586-6629 \u2014 missed call last night, no voicemail",
-      "why": "YouMail missed-call alert 2026-08-12 7:11 PM, potential music or personal contact",
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano setlist / booking opportunity",
+      "why": "Standing daily priority \u2014 music business development",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback or demo",
-      "why": "Standing Mr. Bond deliverable \u2014 one outreach per day",
+      "area": "inbox",
+      "task": "Review Aecooly support reply confirming address change \u2014 verify tracking updates",
+      "why": "Email from support@aecooly.com 2026-08-21 confirming corrected shipping address",
       "done": false
     },
     {
       "id": 5,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue with a setlist or amapiano mix link",
-      "why": "Standing daily goal \u2014 one music business outreach per day",
-      "done": false
-    },
-    {
-      "id": 6,
       "priority": "low",
-      "area": "job",
-      "task": "RSVP for Careers in Drug Safety & Pharmacovigilance webinar on Aug 17",
-      "why": "Eventbrite invite received yesterday \u2014 healthcare-adjacent networking, free",
+      "area": "inbox",
+      "task": "Approve GitHub Claude app updated permissions request",
+      "why": "GitHub notification 2026-08-21 \u2014 Claude app requesting additional access",
       "done": false
     }
   ]
