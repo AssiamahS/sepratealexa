@@ -1,44 +1,60 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Apply to PwC AI Engineer role from LinkedIn job alert \u2014 tailor resume and submit",
-      "why": "LinkedIn job alert received 2026-08-21; standing daily goal to act on one posting",
+      "task": "Review LinkedIn job alerts (TCS Software Developer, Vanguard Entry Level App Engineer) \u2014 pick one, tailor resume, apply",
+      "why": "Two fresh LinkedIn job alert batches (40+ postings each) landed yesterday and today; standing daily goal",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat user research (Mr. Bond deliverable)",
-      "why": "Standing daily priority \u2014 Saturday is a good day for warm LinkedIn/email outreach",
+      "area": "inbox",
+      "task": "Call back Juelz Santana at (732) 586-6629 \u2014 3 missed calls yesterday, no voicemail",
+      "why": "Three back-to-back calls from a real contact with no message; likely urgent",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for amapiano setlist / booking opportunity",
-      "why": "Standing daily priority \u2014 music business development",
+      "priority": "high",
+      "area": "inbox",
+      "task": "Check LinkedIn \u2014 Cross Cultural CareLink profile view; respond if recruiter message",
+      "why": "LinkedIn: '20 people noticed you' flagged Cross Cultural CareLink, LLC specifically",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Review Aecooly support reply confirming address change \u2014 verify tracking updates",
-      "why": "Email from support@aecooly.com 2026-08-21 confirming corrected shipping address",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat (Mr. Bond deliverable)",
+      "why": "Standing daily goal \u2014 Sunday is a good day for warm LinkedIn/email outreach",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano set/booking",
+      "why": "Standing daily goal \u2014 send one cold outreach with setlist or mix link",
+      "done": false
+    },
+    {
+      "id": 6,
+      "priority": "med",
+      "area": "home",
+      "task": "iCloud storage is full \u2014 clear space or upgrade plan so backups resume",
+      "why": "Apple warning email: docs, contacts, device data no longer backing up",
+      "done": false
+    },
+    {
+      "id": 7,
       "priority": "low",
-      "area": "inbox",
-      "task": "Approve GitHub Claude app updated permissions request",
-      "why": "GitHub notification 2026-08-21 \u2014 Claude app requesting additional access",
+      "area": "home",
+      "task": "Put recycling out tonight (Monday pickup)",
+      "why": "Recurring weekly \u2014 pickup is Tuesday morning, bins go out Monday night",
       "done": false
     }
   ]
