@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "respond to ELJT Development Project weekly meeting invite from omegachain.net \u2014 accept or decline the recurring Tuesday 1-2pm EDT slot",
-      "why": "calendar invite from real humans (Nicholas A., Rakeem S.) sitting unanswered; meeting is TODAY",
+      "task": "Reply to Franco Simpson's Slack DM in Omegachain Dev Ops \u2014 he said 'Looking forward to working' with you",
+      "why": "Direct message from a teammate waiting on a response (Aug 25)",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "inbox",
-      "task": "regenerate Apple development certificates \u2014 multiple certs were revoked overnight, provisioning profiles are now invalid",
-      "why": "5x 'Your Certificate Has Been Revoked' emails from Apple; noteWatch and other builds will fail until fixed",
+      "task": "Log into USAJOBS to prevent account deletion \u2014 expires in 30 days",
+      "why": "Email from accountinfo@usajobs.gov: account cancellation warning due to inactivity",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
       "area": "job",
-      "task": "tailor resume and apply to Capital Markets Analyst at Nexamp (Boston, $78-87k, clean energy)",
-      "why": "Indeed alert from yesterday \u2014 standing daily goal: act on one posting",
+      "task": "Review LinkedIn IT Infrastructure Specialist postings ($118K/yr, 97 openings) and apply to one strong match",
+      "why": "Standing daily goal + LinkedIn salary/hiring insights email received today",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "reach out to one healthcare professional for MedChat user research (Mr. Bond deliverable)",
-      "why": "standing daily goal \u2014 one HCP outreach per day",
+      "area": "inbox",
+      "task": "Call Kevin Kofi Manu back at (732) 543-6711 \u2014 3 missed calls yesterday",
+      "why": "3 consecutive missed calls from a known contact (Aug 25, 11:15-11:17 AM)",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "music",
-      "task": "pitch one DJ or venue for amapiano set / setlist collaboration",
-      "why": "standing daily goal \u2014 one music business touchpoint per day",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat \u2014 check the MediPharm Clinical Research careers event on Eventbrite for leads",
+      "why": "Standing Mr. Bond deliverable + MediPharm event just posted careers in Clinical Research",
       "done": false
     },
     {
       "id": 6,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist or demo link",
+      "why": "Standing daily music goal",
+      "done": false
+    },
+    {
+      "id": 7,
       "priority": "low",
       "area": "inbox",
-      "task": "return missed call from (205) 202-7160 or identify caller",
-      "why": "voicemail notification yesterday \u2014 no message left, may be recruiter or business contact",
+      "task": "Review Omegachain standup notes from Chancelor (Aug 25) and post your update if missing",
+      "why": "Slack notification: Chancelor posted meeting notes and mentioned you in #weekly-standup-notes",
       "done": false
     }
   ]
