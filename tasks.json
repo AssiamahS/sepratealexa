@@ -1,60 +1,52 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Reply to Franco Simpson's Slack DM in Omegachain Dev Ops \u2014 he said 'Looking forward to working' with you",
-      "why": "Direct message from a teammate waiting on a response (Aug 25)",
+      "task": "Reply to Austin Laniyi at Plaid \u2014 he's sent 5 follow-ups about your API usage and wants a quick call or thumbs-up/down",
+      "why": "Real human (alaniyi@plaid.com) has been following up since Aug 8; latest msg yesterday says 'one last message'. Partnership or job lead dying on the vine.",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Log into USAJOBS to prevent account deletion \u2014 expires in 30 days",
-      "why": "Email from accountinfo@usajobs.gov: account cancellation warning due to inactivity",
+      "area": "job",
+      "task": "Apply to Projects Coordinator @ QE Solar ($95K-$115K) via Indeed \u2014 tailor resume to project management experience",
+      "why": "Indeed match email today; salary range solid; standing daily goal to act on one posting.",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "job",
-      "task": "Review LinkedIn IT Infrastructure Specialist postings ($118K/yr, 97 openings) and apply to one strong match",
-      "why": "Standing daily goal + LinkedIn salary/hiring insights email received today",
+      "priority": "med",
+      "area": "music",
+      "task": "Call back DJ Zoob Stool at (917) 891-7012 \u2014 missed call last night, no voicemail",
+      "why": "Voicemail notification 2026-08-26 11:43 PM; DJ name suggests music connection. Standing goal: pitch one DJ or business.",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Call Kevin Kofi Manu back at (732) 543-6711 \u2014 3 missed calls yesterday",
-      "why": "3 consecutive missed calls from a known contact (Aug 25, 11:15-11:17 AM)",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 send intro message or connection request",
+      "why": "Standing daily goal: MedChat outreach.",
       "done": false
     },
     {
       "id": 5,
-      "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 check the MediPharm Clinical Research careers event on Eventbrite for leads",
-      "why": "Standing Mr. Bond deliverable + MediPharm event just posted careers in Clinical Research",
+      "priority": "low",
+      "area": "inbox",
+      "task": "Clean up Google OAuth clients flagged for deletion \u2014 review which projects to keep",
+      "why": "Google Developer email (x2 yesterday) warning unused OAuth clients will be auto-deleted.",
       "done": false
     },
     {
       "id": 6,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist or demo link",
-      "why": "Standing daily music goal",
-      "done": false
-    },
-    {
-      "id": 7,
       "priority": "low",
       "area": "inbox",
-      "task": "Review Omegachain standup notes from Chancelor (Aug 25) and post your update if missing",
-      "why": "Slack notification: Chancelor posted meeting notes and mentioned you in #weekly-standup-notes",
+      "task": "Confirm Slack onboarding tasks from new workspace invite",
+      "why": "Slack email today: 'Your onboarding tasks are waiting' (sent to HCP email).",
       "done": false
     }
   ]
