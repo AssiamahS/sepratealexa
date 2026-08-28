@@ -1,35 +1,35 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Reply to Austin Laniyi at Plaid \u2014 he's sent 5 follow-ups about your API usage and wants a quick call or thumbs-up/down",
-      "why": "Real human (alaniyi@plaid.com) has been following up since Aug 8; latest msg yesterday says 'one last message'. Partnership or job lead dying on the vine.",
+      "task": "Reply to Austin Laniyi at Plaid \u2014 he's sent multiple follow-ups and said 'one last message'; respond today or lose the lead",
+      "why": "Carried from yesterday; real human waiting since Aug 8, partnership/job lead going cold.",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Apply to Projects Coordinator @ QE Solar ($95K-$115K) via Indeed \u2014 tailor resume to project management experience",
-      "why": "Indeed match email today; salary range solid; standing daily goal to act on one posting.",
+      "task": "Act on one job posting today \u2014 tailor resume and apply (check Indeed, LinkedIn, Workday alerts)",
+      "why": "Standing daily goal: apply to one posting. Yesterday's QE Solar pick may still be open if not yet applied.",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
       "area": "music",
-      "task": "Call back DJ Zoob Stool at (917) 891-7012 \u2014 missed call last night, no voicemail",
-      "why": "Voicemail notification 2026-08-26 11:43 PM; DJ name suggests music connection. Standing goal: pitch one DJ or business.",
+      "task": "Call back DJ Zoob Stool at (917) 891-7012 or pitch one DJ/business for amapiano setlist",
+      "why": "Missed call from Aug 26 still unanswered; standing daily goal to pitch one DJ or business.",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 send intro message or connection request",
+      "task": "Reach out to one healthcare professional \u2014 send intro message or LinkedIn connection request for Mr. Bond deliverable",
       "why": "Standing daily goal: MedChat outreach.",
       "done": false
     },
@@ -37,16 +37,8 @@
       "id": 5,
       "priority": "low",
       "area": "inbox",
-      "task": "Clean up Google OAuth clients flagged for deletion \u2014 review which projects to keep",
-      "why": "Google Developer email (x2 yesterday) warning unused OAuth clients will be auto-deleted.",
-      "done": false
-    },
-    {
-      "id": 6,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Confirm Slack onboarding tasks from new workspace invite",
-      "why": "Slack email today: 'Your onboarding tasks are waiting' (sent to HCP email).",
+      "task": "Review Google OAuth clients flagged for deletion \u2014 decide which projects to keep before auto-deletion",
+      "why": "Google Developer warning emails from Aug 26; cleanup prevents losing active OAuth clients.",
       "done": false
     }
   ]
