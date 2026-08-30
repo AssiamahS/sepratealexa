@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-30",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Reply to Austin Laniyi at Plaid \u2014 he's sent multiple follow-ups and said 'one last message'; respond today or lose the lead",
-      "why": "Carried from yesterday; real human waiting since Aug 8, partnership/job lead going cold.",
+      "task": "Call back ayo brendan (973-342-4819) \u2014 4 missed calls Fri-Sat with no voicemail",
+      "why": "Multiple unanswered calls in 24h signals urgency; also return Brook (717-650-0435), Kevin Kofi Manu (732-543-6711), Faris (732-275-7408)",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Act on one job posting today \u2014 tailor resume and apply (check Indeed, LinkedIn, Workday alerts)",
-      "why": "Standing daily goal: apply to one posting. Yesterday's QE Solar pick may still be open if not yet applied.",
+      "task": "Apply to Foundation Health remote role via LinkedIn \u2014 tailor resume and submit",
+      "why": "LinkedIn job alert (Aug 28); also check Tech Career Fair hiring events from Eventbrite",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "music",
-      "task": "Call back DJ Zoob Stool at (917) 891-7012 or pitch one DJ/business for amapiano setlist",
-      "why": "Missed call from Aug 26 still unanswered; standing daily goal to pitch one DJ or business.",
+      "priority": "high",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
+      "why": "Standing daily goal \u2014 Sunday is a good day for LinkedIn/email outreach prep for Monday",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional \u2014 send intro message or LinkedIn connection request for Mr. Bond deliverable",
-      "why": "Standing daily goal: MedChat outreach.",
+      "area": "music",
+      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist or mix link",
+      "why": "Standing daily goal \u2014 Labor Day weekend events coming up, good timing",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "home",
+      "task": "Put recycling out tonight \u2014 pickup is Tuesday but tomorrow is Monday night",
+      "why": "Recurring weekly task; set reminder or just stage bins now",
+      "done": false
+    },
+    {
+      "id": 6,
       "priority": "low",
       "area": "inbox",
-      "task": "Review Google OAuth clients flagged for deletion \u2014 decide which projects to keep before auto-deletion",
-      "why": "Google Developer warning emails from Aug 26; cleanup prevents losing active OAuth clients.",
+      "task": "Complete Chipotle Summer of Extras final streak before it ends Monday",
+      "why": "Email: free entree is 2 milestones away, promo ends Mon 9/1",
       "done": false
     }
   ]
