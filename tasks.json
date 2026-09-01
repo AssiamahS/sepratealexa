@@ -1,60 +1,44 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "apply to Wells Fargo Senior Software Engineer - File Transfer role via LinkedIn",
-      "why": "LinkedIn job alert received today \u2014 SWE role matches profile, apply while fresh",
+      "task": "Find one open role matching your profile, tailor resume, and submit application",
+      "why": "Standing goal \u2014 daily job-hunt cadence",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "medchat",
-      "task": "reach out to Maisha Ibnat (PharmD candidate, MCPHS) on LinkedIn re: MedChat feedback",
-      "why": "LinkedIn 'meet' suggestion \u2014 pharmacy student is ideal MedChat user/advocate for Mr. Bond deliverable",
+      "task": "Identify and reach out to one healthcare professional for MedChat feedback",
+      "why": "Standing goal \u2014 Mr. Bond deliverable requires HCP outreach",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "job",
-      "task": "register for Drug Safety & Pharmacovigilance webinar (Sept 8) and Enterprise Mobility career fair (Sept 9)",
-      "why": "two Eventbrite/NJ DOL invites \u2014 networking pipeline for healthcare-adjacent roles",
+      "priority": "high",
+      "area": "music",
+      "task": "Pitch one DJ or venue with a setlist or amapiano mix proposal",
+      "why": "Standing goal \u2014 weekly music business outreach",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "music",
-      "task": "pitch one DJ or venue for amapiano set \u2014 send setlist + mix link",
-      "why": "standing daily goal \u2014 music outreach",
+      "area": "home",
+      "task": "Bring recycling bins back in after Tuesday morning pickup",
+      "why": "Recycling pickup is today (Tuesday); bins go out Monday night",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "inbox",
-      "task": "complete Amazon seller tax information setup",
-      "why": "Amazon email: 'Complete your tax information' \u2014 blocks getting paid",
-      "done": false
-    },
-    {
-      "id": 6,
-      "priority": "low",
-      "area": "inbox",
-      "task": "return missed call from 'Ja' at (763) 957-0607 \u2014 check if it's a real contact",
-      "why": "YouMail voicemail today, no message left but caller has a name",
-      "done": false
-    },
-    {
-      "id": 7,
-      "priority": "low",
-      "area": "home",
-      "task": "put recycling out tonight \u2014 pickup is Tuesday morning",
-      "why": "recurring weekly \u2014 Monday night",
+      "task": "Manually scan inbox for unread emails from real humans and act on any with deadlines",
+      "why": "Gmail connector unavailable \u2014 need manual pass to catch time-sensitive replies",
       "done": false
     }
   ]
