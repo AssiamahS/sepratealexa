@@ -1,45 +1,37 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-05",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Find one open role (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
-      "why": "Standing goal \u2014 one application per day keeps pipeline moving",
+      "task": "Find and apply to one relevant posting \u2014 tailor resume and cover letter to the role",
+      "why": "Standing goal: act on one posting daily to keep pipeline moving",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback or partnership",
-      "why": "Standing goal \u2014 Mr. Bond deliverable requires consistent outreach",
+      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
+      "why": "Standing goal: one HCP outreach per day",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue with a setlist or amapiano mix",
-      "why": "Standing goal \u2014 grow music business with one outreach per day",
+      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano demo",
+      "why": "Standing goal: one music business outreach per day",
       "done": false
     },
     {
       "id": 4,
-      "priority": "med",
-      "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag deadlines",
-      "why": "Could not auto-scan Gmail this session; manual check needed",
-      "done": false
-    },
-    {
-      "id": 5,
       "priority": "low",
-      "area": "home",
-      "task": "No recycling action needed today (pickup is Tuesday, set-out Monday night)",
-      "why": "Recurring \u2014 next action Monday 2026-09-07",
-      "done": true
+      "area": "inbox",
+      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag job alerts",
+      "why": "Weekend catch-up; no Gmail connector available this session so do manually",
+      "done": false
     }
   ]
 }
