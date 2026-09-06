@@ -1,37 +1,47 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Find and apply to one relevant posting \u2014 tailor resume and cover letter to the role",
-      "why": "Standing goal: act on one posting daily to keep pipeline moving",
-      "done": false
+      "area": "inbox",
+      "task": "Call back (732) 570-2720 \u2014 8+ missed calls over 2 days, persistent caller",
+      "why": "Repeated missed calls Fri-Sat with no voicemail; could be recruiter or urgent"
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
-      "why": "Standing goal: one HCP outreach per day",
-      "done": false
+      "area": "job",
+      "task": "Apply to Data Coordinator (Remote) at WCG IRB \u2014 tailor resume to project-management and data-analysis skills",
+      "why": "Indeed match email today, $58k-$91k, remote, skills-aligned"
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano demo",
-      "why": "Standing goal: one music business outreach per day",
-      "done": false
+      "area": "inbox",
+      "task": "Check Chime balance \u2014 $7.36 low-balance alert, transfer funds or note upcoming deposits",
+      "why": "Chime alert: balance dropped below $15"
     },
     {
       "id": 4,
+      "priority": "med",
+      "area": "job",
+      "task": "Review Nextdoor recruiter positions from Grit Staffing (Recruiter@gritstaffinghr.com) and reply if relevant",
+      "why": "Nextdoor post listing multiple open positions with direct recruiter email"
+    },
+    {
+      "id": 5,
+      "priority": "med",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
+      "why": "Standing daily goal: one HCP outreach per day"
+    },
+    {
+      "id": 6,
       "priority": "low",
-      "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag job alerts",
-      "why": "Weekend catch-up; no Gmail connector available this session so do manually",
-      "done": false
+      "area": "music",
+      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist or mix link",
+      "why": "Standing daily goal: one music business outreach per day"
     }
   ]
 }
