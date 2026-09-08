@@ -1,60 +1,60 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Call back (732) 570-2720 \u2014 5 missed calls yesterday, no voicemail left",
-      "why": "Persistent caller, 5 attempts in one day \u2014 could be recruiter, landlord, or urgent personal",
+      "area": "job",
+      "task": "Submit Lockwood Group security code 6cyKFo9j to complete PM - Medical application on Greenhouse",
+      "why": "Greenhouse email received Sep 07 \u2014 application stalls until code is entered",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Work Scipio hand-apply queue: pick 3-4 of the 12 pending and submit manually",
-      "why": "Scipio Sep 06 report: 12 hand-apply backlog; Lockwood Group, PerfectServe, Alteva RCM already confirmed",
+      "area": "inbox",
+      "task": "Fix Twilio recharge \u2014 update payment method or manually top up $10.78",
+      "why": "URGENT email from Twilio: automatic balance recharge failed, services at risk",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
+      "priority": "med",
       "area": "job",
-      "task": "Review LinkedIn Angular Developer at Covetus ($100-120K) \u2014 tailor resume and apply if fit",
-      "why": "LinkedIn job alert received yesterday; standing goal: act on one posting today",
+      "task": "Pick one LinkedIn job alert (Covetus Angular $120K or TCS Developer) \u2014 tailor resume and apply",
+      "why": "Standing goal: one application per day; scipio hit 17/16 weekly target, keep momentum",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
-      "why": "Standing daily priority \u2014 keep pipeline moving",
+      "task": "Reach out to one healthcare professional \u2014 attend the Drug Safety & Pharmacovigilance webinar TODAY on Eventbrite",
+      "why": "Eventbrite invite for Sep 8; aligns with Mr. Bond deliverable + pharma network",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for amapiano set / setlist collab",
-      "why": "Standing daily priority \u2014 music business development",
+      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link",
+      "why": "Standing daily goal: one music outreach per day",
       "done": false
     },
     {
       "id": 6,
-      "priority": "med",
+      "priority": "low",
       "area": "inbox",
-      "task": "Call back Juelz Santana (732) 586-6629 and Promise (201) 638-6024",
-      "why": "Missed calls from yesterday with no voicemail \u2014 real contacts worth a quick check-in",
+      "task": "Review Kraken API key permission changes on hummingbot/hummingbot1/new keys \u2014 revoke if unneeded",
+      "why": "3 Kraken emails: inactive API keys had permissions modified automatically, security hygiene",
       "done": false
     },
     {
       "id": 7,
       "priority": "low",
-      "area": "home",
-      "task": "Put recycling out tonight \u2014 pickup is Tuesday morning",
-      "why": "Recurring weekly; Monday night is the cutoff",
+      "area": "inbox",
+      "task": "Return missed calls \u2014 (732) 570-2720 called twice, Juelz Santana (732) 586-6629",
+      "why": "YouMail voicemails Sep 06-07, no messages left but repeated calls suggest intent",
       "done": false
     }
   ]
