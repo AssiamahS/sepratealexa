@@ -1,36 +1,52 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Find one open role (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
-      "why": "Standing daily goal \u2014 consistent pipeline beats batch sprints",
+      "area": "inbox",
+      "task": "call back (732) 570-2720 \u2014 five missed calls yesterday with no voicemail, persistent caller",
+      "why": "5 unanswered calls in 47 min (Sep 9 2:30-3:17 PM) via YouMail; could be recruiter, medical, or financial",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
-      "why": "Standing daily goal \u2014 user-research velocity keeps the Bond timeline on track",
+      "area": "job",
+      "task": "apply to Ladders Software Engineer - Healthcare (remote) \u2014 tailor resume and submit today",
+      "why": "LinkedIn job email Sep 9; aligns with healthcare dev experience and standing daily job-hunt goal",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link",
-      "why": "Standing daily goal \u2014 one outreach per day compounds into gigs",
+      "priority": "high",
+      "area": "medchat",
+      "task": "reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
+      "why": "standing daily priority \u2014 one outreach per day minimum",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
+      "area": "music",
+      "task": "pitch one DJ or venue for an amapiano set \u2014 send setlist or booking inquiry",
+      "why": "standing daily priority \u2014 one music outreach per day",
+      "done": false
+    },
+    {
+      "id": 5,
+      "priority": "med",
       "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag job alerts",
-      "why": "Could not auto-scan Gmail this session; manual pass needed to catch time-sensitive items",
+      "task": "complete Health Tech PHL survey from ed@tmo-consulting.com and reply \u2014 keeps you in the health-tech event loop",
+      "why": "email Sep 9 from TMO Consulting targeting past Health Tech PHL attendees; low effort, high networking ROI",
+      "done": false
+    },
+    {
+      "id": 6,
+      "priority": "low",
+      "area": "inbox",
+      "task": "review Amazon Influencer Program reporting changes effective 9/14 and adjust workflow if needed",
+      "why": "Amazon email Sep 9; deadline Sunday 9/14 for new reporting format",
       "done": false
     }
   ]
