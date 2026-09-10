@@ -1,60 +1,36 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Submit Lockwood Group security code 6cyKFo9j to complete PM - Medical application on Greenhouse",
-      "why": "Greenhouse email received Sep 07 \u2014 application stalls until code is entered",
+      "task": "Find one open role (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
+      "why": "Standing daily goal \u2014 consistent pipeline beats batch sprints",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Fix Twilio recharge \u2014 update payment method or manually top up $10.78",
-      "why": "URGENT email from Twilio: automatic balance recharge failed, services at risk",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
+      "why": "Standing daily goal \u2014 user-research velocity keeps the Bond timeline on track",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "job",
-      "task": "Pick one LinkedIn job alert (Covetus Angular $120K or TCS Developer) \u2014 tailor resume and apply",
-      "why": "Standing goal: one application per day; scipio hit 17/16 weekly target, keep momentum",
+      "area": "music",
+      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link",
+      "why": "Standing daily goal \u2014 one outreach per day compounds into gigs",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional \u2014 attend the Drug Safety & Pharmacovigilance webinar TODAY on Eventbrite",
-      "why": "Eventbrite invite for Sep 8; aligns with Mr. Bond deliverable + pharma network",
-      "done": false
-    },
-    {
-      "id": 5,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link",
-      "why": "Standing daily goal: one music outreach per day",
-      "done": false
-    },
-    {
-      "id": 6,
-      "priority": "low",
       "area": "inbox",
-      "task": "Review Kraken API key permission changes on hummingbot/hummingbot1/new keys \u2014 revoke if unneeded",
-      "why": "3 Kraken emails: inactive API keys had permissions modified automatically, security hygiene",
-      "done": false
-    },
-    {
-      "id": 7,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Return missed calls \u2014 (732) 570-2720 called twice, Juelz Santana (732) 586-6629",
-      "why": "YouMail voicemails Sep 06-07, no messages left but repeated calls suggest intent",
+      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag job alerts",
+      "why": "Could not auto-scan Gmail this session; manual pass needed to catch time-sensitive items",
       "done": false
     }
   ]
