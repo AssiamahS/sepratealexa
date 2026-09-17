@@ -1,52 +1,52 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Update Serato subscription payment method \u2014 payment failed again",
-      "why": "Serato email: subscription will lapse if not fixed; DJ tools at risk",
+      "task": "Fix Serato subscription payment \u2014 update payment method before next retry",
+      "why": "Serato payment-failed email 2026-09-16; service will lapse if not fixed",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "inbox",
-      "task": "Call back (732) 570-2720 or identify caller \u2014 5 missed calls, no voicemail",
-      "why": "5 rapid-fire calls from same number last night; could be recruiter or urgent",
+      "task": "Investigate 5 missed calls from (732) 570-2720 \u2014 call back or block",
+      "why": "5 rapid-fire missed calls last night with no voicemail; could be recruiter or scam",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
       "area": "job",
-      "task": "Apply to Lead Analyst, Regional Market Insights at GE Vernova (Boston) \u2014 tailor resume and submit",
-      "why": "Indeed alert today; Datadog SE2 came back rejected, keep pipeline moving",
+      "task": "Apply to GE Vernova Lead Analyst, Regional Market Insights (Boston) \u2014 tailor resume and submit",
+      "why": "Indeed alert today; Datadog SE2 rejected yesterday so pipeline needs refill",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat user feedback",
-      "why": "Standing goal \u2014 Mr. Bond deliverable requires consistent outreach",
+      "task": "Reach out to one healthcare professional for MedChat feedback (Mr. Bond deliverable)",
+      "why": "Standing daily goal \u2014 MedChat outreach cadence",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist or mix link",
-      "why": "Standing goal \u2014 music pipeline needs weekly touches",
+      "task": "Pitch one DJ or venue for amapiano set / setlist collab",
+      "why": "Standing daily goal \u2014 music pipeline",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
-      "area": "job",
-      "task": "RSVP for Careers in Drug Safety & Pharmacovigilance webinar (Sept 21)",
-      "why": "Eventbrite invite \u2014 pharma-adjacent networking, free, aligns with healthcare pivot",
+      "area": "inbox",
+      "task": "Verify TestFlight builds work: flash-deck 1.3(15), MindChuk 1.1.0(5), InstaFollowUp 0.1.0(5)",
+      "why": "Three new TestFlight builds landed overnight; quick smoke-test on device",
       "done": false
     }
   ]
