@@ -1,52 +1,60 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Reply to Matt Steffens (matt.steffens@gmail.com) re: Mindchuk \u2014 he found your GitHub repo, asking about testing phase and collaboration",
-      "why": "Real human cold-inbound, waiting for reply since yesterday 6:57 PM",
+      "task": "Call back (732) 570-2720 \u2014 5 missed calls yesterday, persistent and unidentified. Check voicemail first.",
+      "why": "5 calls in 2 hours from the same number suggests urgency \u2014 could be recruiter, employer, or personal.",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "inbox",
-      "task": "Check and reply to LinkedIn messages from Elden and Magaly (3 messages total awaiting response)",
-      "why": "LinkedIn messaging digests from last 24h \u2014 humans waiting",
+      "task": "Reply to 3 pending LinkedIn messages (Elden + 2 others) via LinkedIn app or web.",
+      "why": "LinkedIn messaging-digest: '3 new messages await your response' \u2014 humans waiting.",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
       "area": "job",
-      "task": "Apply to CarGurus Associate Marketing Data Analyst ($61-77k, Boston) or one MediPharm Clinical Research role from Eventbrite posting",
-      "why": "Indeed alert + Eventbrite new listing yesterday; PayPay rejected \u2014 keep pipeline moving",
+      "task": "Apply to Market Analyst - Power Trading Analytics at Genscape/Wood Mackenzie (up to $120K, Boston). Tailor resume to analytics + pharma data skills.",
+      "why": "Indeed job alert 9/18. Standing goal: act on one posting today.",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat / Mr. Bond deliverable",
-      "why": "Standing daily goal \u2014 Friday outreach lands before weekend",
+      "area": "job",
+      "task": "RSVP for 'Careers in Drug Safety and Pharmacovigilance' webinar on Sept 21 (Sunday).",
+      "why": "Eventbrite invite 9/18 \u2014 directly relevant to pharma career pivot. Free networking.",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for a set / amapiano collab",
-      "why": "Standing daily goal \u2014 weekend bookings decided Fridays",
+      "area": "medchat",
+      "task": "Reach out to ONE healthcare professional for MedChat (Mr. Bond deliverable). Cold LinkedIn message or email.",
+      "why": "Standing daily priority \u2014 MedChat outreach.",
       "done": false
     },
     {
       "id": 6,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch ONE DJ or venue for amapiano set \u2014 send setlist or mix link.",
+      "why": "Standing daily priority \u2014 music/DJ business outreach.",
+      "done": false
+    },
+    {
+      "id": 7,
       "priority": "low",
       "area": "inbox",
-      "task": "Review Apple refund decision (pelotonysl account) and Dave bank migration action item",
-      "why": "Apple refund status update + Dave partner bank switch deadline unknown \u2014 check both",
+      "task": "Call back Kevin Kofi Manu (732-543-6711) and ayo brendan (973-342-4819) \u2014 both missed calls yesterday.",
+      "why": "Youmail missed-call alerts 9/18. Personal contacts, no voicemail left.",
       "done": false
     }
   ]
