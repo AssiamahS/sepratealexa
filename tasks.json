@@ -1,52 +1,60 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Call back Juelz Santana (732-586-6629) and listen to VM from (973) 549-4303 \u2014 two missed calls yesterday with no message, one VM left",
-      "why": "YouMail alerts Sep 22 \u2014 real humans tried to reach you, one left a voicemail",
+      "area": "job",
+      "task": "Apply to Gilead Sciences Associate Director, Sales Analytics & Operations ($177-253k) \u2014 tailor resume to pharma analytics experience",
+      "why": "Indeed match from yesterday; high-comp role aligned with analytics skills",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Apply to Epsilon Director, Analytic Consulting (Boston, $128-269K) \u2014 tailor resume to analytics consulting leadership",
-      "why": "Indeed alert Sep 22; strong comp range, matches data/analytics background",
+      "area": "inbox",
+      "task": "Check 4 missed calls from yesterday (732-570-2720, 908-235-3880, M F Thompson 908-206-0648, 551-212-5298) \u2014 return any that are recruiters or real humans",
+      "why": "YouMail voicemail alerts Sep 23; could be recruiter callbacks",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "job",
-      "task": "Review Gilead Sciences MAx-KAD cell therapy role ($206-266K SoCal) \u2014 decide if pharma sales pivot is worth pursuing",
-      "why": "Indeed alert Sep 22; high comp but may be outside core skill set \u2014 triage today",
+      "priority": "high",
+      "area": "inbox",
+      "task": "Reply to Omegachain Slack standup \u2014 Chancelor posted Sep 22 meeting notes, team is waiting",
+      "why": "Slack notification: 1 unread in #weekly-standup-notes from Chancelor Assiamah",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 message a pharmacist or NP on LinkedIn with the Mr. Bond pitch",
-      "why": "Standing deliverable: one HCP outreach per day",
+      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 pitch MedChat value prop",
+      "why": "Standing daily goal: one HCP outreach per day",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for an amapiano set \u2014 send setlist or mix link",
-      "why": "Standing goal: one music business outreach per day",
+      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link",
+      "why": "Standing daily goal: one music business outreach per day",
       "done": false
     },
     {
       "id": 6,
+      "priority": "med",
+      "area": "job",
+      "task": "RSVP for Careers in Drug Safety & Pharmacovigilance webinar (Sep 28 via Eventbrite)",
+      "why": "Eventbrite invite; pharma career networking opportunity this Sunday",
+      "done": false
+    },
+    {
+      "id": 7,
       "priority": "low",
       "area": "inbox",
-      "task": "Review and accept/deny CodeRabbit updated permissions request on GitHub",
-      "why": "GitHub notification Sep 22 \u2014 coderabbitai requesting additional access to your account",
+      "task": "Download Google Takeout archives before they expire Sep 30",
+      "why": "Google email: data export ready, 6-day window to download",
       "done": false
     }
   ]
