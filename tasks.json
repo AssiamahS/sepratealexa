@@ -1,60 +1,52 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Call back Juelz Santana (732-586-6629) -- 4 missed calls yesterday, persistent caller",
-      "why": "YouMail: 4 missed calls Sep 24 spanning 7 hours; likely urgent",
+      "area": "job",
+      "task": "Review Scipio report \u2014 1 interview waiting; confirm interview details and prep",
+      "why": "Scipio email Sep 25: 1 confirmed submit, 1 interview waiting, only 1/16 weekly target",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Complete Blink Health application -- enter security code PEJvOfUF and resubmit",
-      "why": "Greenhouse email Sep 24; application stalled until code is entered",
+      "task": "Apply to one strong posting today: Vertex Pharma Director Kidney Forecasting ($192-288k) or Gilead Assoc Director Sales Analytics ($178-253k)",
+      "why": "Indeed alerts Sep 25; weekly Scipio pace is 1/16 \u2014 need volume",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "job",
-      "task": "Apply to Meketa Investment Group Private Market Transfer Analyst ($69-75k) or Gilead Assoc Dir Sales Analytics ($177-253k) -- tailor resume and submit",
-      "why": "Indeed alerts Sep 24; standing goal: one application per day. HRT and Chime both rejected yesterday -- keep pipeline moving",
+      "priority": "med",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat \u2014 Mr. Bond deliverable",
+      "why": "Standing daily priority; consistent outreach compounds",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional -- use LinkedIn suggestion at Phyllis Jen Center for Primary Care as a warm lead",
-      "why": "Standing daily goal: one HCP outreach. LinkedIn surfaced a contact at a primary care center yesterday",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano setlist or booking",
+      "why": "Standing daily priority; Saturday is good timing for weekend-adjacent pitches",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue -- send setlist or amapiano mix link",
-      "why": "Standing daily goal: one music business outreach per day",
+      "area": "inbox",
+      "task": "Investigate missed calls from (908) 800-1111 and (732) 570-2720 \u2014 multiple attempts, no voicemail",
+      "why": "5+ missed calls across 2 days from two numbers; could be recruiter or interview-related",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
       "area": "home",
-      "task": "Deal with iCloud storage full -- delete old backups or upgrade plan so device backups resume",
-      "why": "Apple email Sep 25: storage exceeded, backups and photos stopped syncing",
-      "done": false
-    },
-    {
-      "id": 7,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Download Google Takeout archives before they expire Sep 30",
-      "why": "Carried from yesterday; 5-day window remaining",
+      "task": "Clear iCloud storage \u2014 backups, contacts, and photos are paused",
+      "why": "Apple email Sep 25: iCloud storage full, device backup stopped",
       "done": false
     }
   ]
