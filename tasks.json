@@ -1,52 +1,52 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Review Scipio report \u2014 1 interview waiting; confirm interview details and prep",
-      "why": "Scipio email Sep 25: 1 confirmed submit, 1 interview waiting, only 1/16 weekly target",
+      "area": "inbox",
+      "task": "Fix Apple billing issue \u2014 update payment method for Google One ($1.99/mo) subscription before it lapses",
+      "why": "Apple email: 'Billing Problem' for Gmail 100 GB renewal, flagged IMPORTANT",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Apply to one strong posting today: Vertex Pharma Director Kidney Forecasting ($192-288k) or Gilead Assoc Director Sales Analytics ($178-253k)",
-      "why": "Indeed alerts Sep 25; weekly Scipio pace is 1/16 \u2014 need volume",
+      "task": "Review Scipio's interview-waiting lead and prep \u2014 1 interview flagged in yesterday's digest",
+      "why": "[scipio] Sep 26 email: '1 interview(s) waiting'; Axon IT Support Tech V application also confirmed",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 Mr. Bond deliverable",
-      "why": "Standing daily priority; consistent outreach compounds",
+      "area": "job",
+      "task": "Apply to one new role today \u2014 pick from Indeed alerts (Gilead Assoc Dir Sales Analytics $178-253k, or Vertex Dir Kidney Forecasting $192-288k) or LinkedIn BetaNXT IT Infra Specialist",
+      "why": "Standing goal: 1 tailored application/day; Scipio only hit 2 of 16 weekly target",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for amapiano setlist or booking",
-      "why": "Standing daily priority; Saturday is good timing for weekend-adjacent pitches",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat \u2014 cold outreach or follow-up on existing lead",
+      "why": "Standing goal: Mr. Bond deliverable, 1 HCP contact/day",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "inbox",
-      "task": "Investigate missed calls from (908) 800-1111 and (732) 570-2720 \u2014 multiple attempts, no voicemail",
-      "why": "5+ missed calls across 2 days from two numbers; could be recruiter or interview-related",
+      "area": "music",
+      "task": "Pitch one DJ or business \u2014 send a setlist or amapiano mix link",
+      "why": "Standing goal: 1 music pitch/day",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
-      "area": "home",
-      "task": "Clear iCloud storage \u2014 backups, contacts, and photos are paused",
-      "why": "Apple email Sep 25: iCloud storage full, device backup stopped",
+      "area": "inbox",
+      "task": "Block (732) 570-2720 \u2014 8+ missed calls in 2 days, no voicemail left, likely robocaller",
+      "why": "YouMail alerts flooding inbox from this number",
       "done": false
     }
   ]
