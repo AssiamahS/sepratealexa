@@ -1,52 +1,60 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Fix Apple billing issue \u2014 update payment method for Google One ($1.99/mo) subscription before it lapses",
-      "why": "Apple email: 'Billing Problem' for Gmail 100 GB renewal, flagged IMPORTANT",
+      "area": "job",
+      "task": "Complete pending Greenhouse applications \u2014 enter security codes for Point72, Anthropic, DRW, and Schonfeld and resubmit",
+      "why": "4 Greenhouse security-code emails from yesterday; applications stall if codes expire",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Review Scipio's interview-waiting lead and prep \u2014 1 interview flagged in yesterday's digest",
-      "why": "[scipio] Sep 26 email: '1 interview(s) waiting'; Axon IT Support Tech V application also confirmed",
+      "task": "Follow up on the interview flagged in yesterday's Scipio report (1 interview waiting)",
+      "why": "Scipio daily digest: '1 interview(s) waiting' \u2014 respond or prep before it goes cold",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "job",
-      "task": "Apply to one new role today \u2014 pick from Indeed alerts (Gilead Assoc Dir Sales Analytics $178-253k, or Vertex Dir Kidney Forecasting $192-288k) or LinkedIn BetaNXT IT Infra Specialist",
-      "why": "Standing goal: 1 tailored application/day; Scipio only hit 2 of 16 weekly target",
+      "area": "inbox",
+      "task": "Return missed call from Juelz Santana (732-586-6629)",
+      "why": "YouMail voicemail notification yesterday \u2014 real person, no message left",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 cold outreach or follow-up on existing lead",
-      "why": "Standing goal: Mr. Bond deliverable, 1 HCP contact/day",
+      "task": "Reach out to one healthcare professional for Mr. Bond deliverable",
+      "why": "Standing daily goal \u2014 MedChat outreach",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or business \u2014 send a setlist or amapiano mix link",
-      "why": "Standing goal: 1 music pitch/day",
+      "task": "Pitch one DJ or business with a setlist or amapiano opportunity",
+      "why": "Standing daily goal \u2014 music business development",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
       "area": "inbox",
-      "task": "Block (732) 570-2720 \u2014 8+ missed calls in 2 days, no voicemail left, likely robocaller",
-      "why": "YouMail alerts flooding inbox from this number",
+      "task": "Fix Apple billing problem \u2014 update payment method for Gmail 100GB subscription",
+      "why": "Apple email: payment method failing, subscription renewal at risk ($1.99/mo)",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "home",
+      "task": "Put recycling out tonight \u2014 pickup is Tuesday morning",
+      "why": "Standing weekly task, Monday night",
       "done": false
     }
   ]
