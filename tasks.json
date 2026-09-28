@@ -1,52 +1,60 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Enter Greenhouse security codes to complete 5 pending applications: Anthropic (CAJZsmQU), DRW (FMWEbXeM), Schonfeld (tmRakYTx), Point72 (8EfhxH0Q), Pathward (bMgMyPy4), Tower Research (LqC780df)",
-      "why": "Codes expire \u2014 Scipio submitted these but they're stuck unconfirmed without the verification step",
+      "task": "Complete pending Workday/Greenhouse verifications (Pathward, Tower Research, Jabil, Zoetis, Prudential) \u2014 enter security codes and confirm candidate accounts before they expire",
+      "why": "5 verification emails from today's Scipio run; codes expire quickly",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Click verification links for Workday accounts: Jabil, Zoetis, and Prudential password reset \u2014 unblock those applications",
-      "why": "Workday verify/reset emails from today; accounts lock out if not confirmed promptly",
+      "task": "Follow up on the 1 interview waiting flagged in today's Scipio report \u2014 confirm scheduling or respond",
+      "why": "[scipio] Sep 28: 1 interview(s) waiting \u2014 human likely waiting on you",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "inbox",
-      "task": "Fix Apple billing problem for Gmail storage subscription (pelotonysl@outlook.com payment method)",
-      "why": "Apple email: payment method failing, Gmail 100GB plan at risk of cancellation",
+      "priority": "med",
+      "area": "job",
+      "task": "Attend the Eventbrite 'Careers in Drug Safety and Pharmacovigilance' webinar today and register for the NJ DOL 'Skill Up: Interview to Hire' event on Oct 9",
+      "why": "Webinar is TODAY Sep 28; DOL event has limited seats, deadline approaching",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "job",
-      "task": "Scipio shows interview(s) waiting \u2014 identify which company and prep; register for NJ DOL 'Skill Up: Interview to Hire' job fair on 10/9",
-      "why": "Scipio Sep 28 digest: 1 interview waiting; NJ DOL event has limited seats, registration open now",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 send a cold intro or follow-up message",
+      "why": "Standing daily goal: one HCP outreach per day",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 cold message or follow up on a warm lead",
-      "why": "Standing Mr. Bond deliverable: one HCP outreach per day",
+      "area": "music",
+      "task": "Pitch one DJ or venue \u2014 send a setlist or amapiano booking inquiry",
+      "why": "Standing daily goal: one music business touchpoint per day",
       "done": false
     },
     {
       "id": 6,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for a set \u2014 send setlist or amapiano mix link",
-      "why": "Standing daily goal: one music business outreach per day",
+      "priority": "low",
+      "area": "inbox",
+      "task": "Return missed call from 'Juelz Santana' (732) 586-6629 if it's a real contact; accept 3 LinkedIn invitations",
+      "why": "Missed call yesterday 9 AM; LinkedIn connections waiting",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "home",
+      "task": "Take recycling out tonight \u2014 pickup is Tuesday morning",
+      "why": "Recurring Monday night chore",
       "done": false
     }
   ]
