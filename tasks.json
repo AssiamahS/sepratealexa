@@ -1,60 +1,60 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Complete pending Workday/Greenhouse verifications (Pathward, Tower Research, Jabil, Zoetis, Prudential) \u2014 enter security codes and confirm candidate accounts before they expire",
-      "why": "5 verification emails from today's Scipio run; codes expire quickly",
+      "area": "home",
+      "task": "Put recycling out tonight \u2014 pickup is tomorrow (Tuesday)",
+      "why": "Standing weekly: recycling goes out Monday night for Tuesday pickup. Today is Monday night.",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Follow up on the 1 interview waiting flagged in today's Scipio report \u2014 confirm scheduling or respond",
-      "why": "[scipio] Sep 28: 1 interview(s) waiting \u2014 human likely waiting on you",
+      "task": "Apply to Comcast Analyst, Measurement & Insights role from Indeed alert ($72k-$108k) \u2014 tailor resume and submit",
+      "why": "Indeed alert received 2026-09-28 21:51; standing goal: act on one posting daily",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "job",
-      "task": "Attend the Eventbrite 'Careers in Drug Safety and Pharmacovigilance' webinar today and register for the NJ DOL 'Skill Up: Interview to Hire' event on Oct 9",
-      "why": "Webinar is TODAY Sep 28; DOL event has limited seats, deadline approaching",
+      "area": "inbox",
+      "task": "Check Cloudflare domain renewal notice \u2014 confirm auto-renew is on for expiring domains",
+      "why": "Email from Cloudflare: 30-day renewal notice received 2026-09-28 23:09",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 send a cold intro or follow-up message",
-      "why": "Standing daily goal: one HCP outreach per day",
+      "area": "inbox",
+      "task": "Return missed call from (732) 570-2720 or identify caller",
+      "why": "YouMail voicemail 2026-09-28 19:11 \u2014 no message left, unknown number",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue \u2014 send a setlist or amapiano booking inquiry",
-      "why": "Standing daily goal: one music business touchpoint per day",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat \u2014 pitch Mr. Bond deliverable",
+      "why": "Standing daily goal: one HCP outreach per day",
       "done": false
     },
     {
       "id": 6,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Return missed call from 'Juelz Santana' (732) 586-6629 if it's a real contact; accept 3 LinkedIn invitations",
-      "why": "Missed call yesterday 9 AM; LinkedIn connections waiting",
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or business \u2014 send setlist or amapiano package",
+      "why": "Standing daily goal: one music outreach per day",
       "done": false
     },
     {
       "id": 7,
       "priority": "low",
-      "area": "home",
-      "task": "Take recycling out tonight \u2014 pickup is Tuesday morning",
-      "why": "Recurring Monday night chore",
+      "area": "inbox",
+      "task": "Clean up Google Cloud project shutdown emails (5 gen-lang-client projects deleted) \u2014 verify none are production",
+      "why": "5 GCP project deletion warnings received 2026-09-29 morning",
       "done": false
     }
   ]
