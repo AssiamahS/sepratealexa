@@ -1,44 +1,52 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Find and apply to one relevant posting \u2014 tailor resume and cover letter to the role",
-      "why": "standing goal: act on one posting daily to keep pipeline moving",
+      "area": "inbox",
+      "task": "Call back Kevin Kofi Manu at (732) 543-6711 \u2014 9 missed calls overnight, clearly urgent",
+      "why": "9 YouMail missed-call alerts between 11pm and 4:30am from a known contact",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback or pilot interest",
-      "why": "standing goal: Mr. Bond deliverable \u2014 need consistent outreach",
+      "area": "job",
+      "task": "Apply to one of the Indeed Market Analyst roles in Boston (Takeda Director or one of the 13 others) \u2014 tailor resume and submit",
+      "why": "Indeed job alert: Director Scientific & Competitive Analysis at Takeda ($177k-$278k) + 13 Market Analyst jobs in Boston",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or business \u2014 send setlist or amapiano mix link with a short intro",
-      "why": "standing goal: grow music pipeline with one outreach per day",
+      "area": "job",
+      "task": "Review LinkedIn IT Infrastructure Specialist posting at U of Minnesota Hubbard School \u2014 apply if relevant",
+      "why": "LinkedIn job alert marked important, hiring near you",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag job alerts and deadlines",
-      "why": "Friday catch-up: clear the week's backlog before the weekend",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 message, email, or LinkedIn connect",
+      "why": "Standing daily goal: MedChat outreach",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or business \u2014 send setlist or amapiano proposal",
+      "why": "Standing daily goal: music outreach",
+      "done": false
+    },
+    {
+      "id": 6,
       "priority": "low",
-      "area": "home",
-      "task": "No recycling action needed \u2014 pickup is Tuesday, bins go out Monday night",
-      "why": "recurring: just a reminder, no action today",
+      "area": "inbox",
+      "task": "Verify FloatMe-Chime bank link is correct and intended \u2014 confirmation emails from Plaid and FloatMe landed today",
+      "why": "Plaid + FloatMe account-change emails at 2:50pm yesterday \u2014 confirm no unauthorized linking",
       "done": false
     }
   ]
