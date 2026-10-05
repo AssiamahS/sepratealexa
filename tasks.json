@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "inbox",
-      "task": "Call back Kevin Kofi Manu at (732) 543-6711 \u2014 9 missed calls overnight, clearly urgent",
-      "why": "9 YouMail missed-call alerts between 11pm and 4:30am from a known contact",
+      "task": "Verify sylvesterassiamah.com auto-renew is enabled on Cloudflare \u2014 domain expires Oct 11",
+      "why": "Cloudflare 7-day expiration notice received Oct 4",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Apply to one of the Indeed Market Analyst roles in Boston (Takeda Director or one of the 13 others) \u2014 tailor resume and submit",
-      "why": "Indeed job alert: Director Scientific & Competitive Analysis at Takeda ($177k-$278k) + 13 Market Analyst jobs in Boston",
+      "task": "Apply to one new role today \u2014 Takeda Director Scientific & Competitive Analysis ($177k-$278k) from Indeed alert is worth a look, or pick from Scipio queue",
+      "why": "Scipio report: 10 submits last 7 days vs 16 target. Standing goal: one tailored app per day",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "job",
-      "task": "Review LinkedIn IT Infrastructure Specialist posting at U of Minnesota Hubbard School \u2014 apply if relevant",
-      "why": "LinkedIn job alert marked important, hiring near you",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
+      "why": "Standing daily goal: one HCP outreach per day",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 message, email, or LinkedIn connect",
-      "why": "Standing daily goal: MedChat outreach",
+      "area": "music",
+      "task": "Pitch one DJ or business \u2014 send setlist or amapiano demo",
+      "why": "Standing daily goal: one music pitch per day",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or business \u2014 send setlist or amapiano proposal",
-      "why": "Standing daily goal: music outreach",
+      "area": "inbox",
+      "task": "Review Fidelity statement period ending Sep 30 \u2014 check balances and any action items",
+      "why": "Fidelity new account statements and disclosures available (received Oct 4)",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
-      "area": "inbox",
-      "task": "Verify FloatMe-Chime bank link is correct and intended \u2014 confirmation emails from Plaid and FloatMe landed today",
-      "why": "Plaid + FloatMe account-change emails at 2:50pm yesterday \u2014 confirm no unauthorized linking",
+      "area": "home",
+      "task": "Put recycling out tonight \u2014 pickup is Tuesday morning",
+      "why": "Recurring Monday-night task",
       "done": false
     }
   ]
