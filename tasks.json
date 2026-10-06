@@ -1,52 +1,44 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Verify sylvesterassiamah.com auto-renew is enabled on Cloudflare \u2014 domain expires Oct 11",
-      "why": "Cloudflare 7-day expiration notice received Oct 4",
+      "area": "job",
+      "task": "Find one open posting (LinkedIn/Workday/NYU Langone), tailor resume + cover letter, submit application",
+      "why": "Standing goal: act on one posting daily",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Apply to one new role today \u2014 Takeda Director Scientific & Competitive Analysis ($177k-$278k) from Indeed alert is worth a look, or pick from Scipio queue",
-      "why": "Scipio report: 10 submits last 7 days vs 16 target. Standing goal: one tailored app per day",
+      "area": "medchat",
+      "task": "Identify and reach out to one healthcare professional for MedChat feedback",
+      "why": "Standing goal: Mr. Bond deliverable \u2014 one HCP outreach per day",
       "done": false
     },
     {
       "id": 3,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback \u2014 Mr. Bond deliverable",
-      "why": "Standing daily goal: one HCP outreach per day",
+      "area": "music",
+      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link with a short intro",
+      "why": "Standing goal: one music outreach per day",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or business \u2014 send setlist or amapiano demo",
-      "why": "Standing daily goal: one music pitch per day",
+      "area": "inbox",
+      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag deadlines",
+      "why": "Daily inbox hygiene \u2014 couldn't auto-check Gmail (permissions pending)",
       "done": false
     },
     {
       "id": 5,
-      "priority": "med",
-      "area": "inbox",
-      "task": "Review Fidelity statement period ending Sep 30 \u2014 check balances and any action items",
-      "why": "Fidelity new account statements and disclosures available (received Oct 4)",
-      "done": false
-    },
-    {
-      "id": 6,
       "priority": "low",
       "area": "home",
-      "task": "Put recycling out tonight \u2014 pickup is Tuesday morning",
-      "why": "Recurring Monday-night task",
+      "task": "Bring recycling bins back in from curb",
+      "why": "Pickup was this morning (Tuesday)",
       "done": false
     }
   ]
