@@ -1,44 +1,52 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Find one open posting (LinkedIn/Workday/NYU Langone), tailor resume + cover letter, submit application",
-      "why": "Standing goal: act on one posting daily",
+      "task": "Apply to one Market Analyst or pharma role from the Indeed alert (Takeda Director of Scientific & Competitive Analysis or similar) \u2014 tailor resume to pharma analytics",
+      "why": "Indeed alert today: Takeda $177K-$278K + 20 Market Analyst jobs in Boston. Standing goal: act on one posting daily.",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Identify and reach out to one healthcare professional for MedChat feedback",
-      "why": "Standing goal: Mr. Bond deliverable \u2014 one HCP outreach per day",
+      "area": "inbox",
+      "task": "Call back (908) 275-5167 and (908) 362-7147 \u2014 two missed calls yesterday with no voicemail",
+      "why": "YouMail alerts Oct 6. Unknown 908 numbers could be recruiters or interview callbacks. No message left = time-sensitive.",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue \u2014 send setlist or amapiano mix link with a short intro",
-      "why": "Standing goal: one music outreach per day",
+      "priority": "high",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for the Mr. Bond deliverable \u2014 use LinkedIn Pharma & Medical Network group or Drug Safety webinar attendee list",
+      "why": "Standing daily goal. LinkedIn pharma group digest arrived today; Drug Safety webinar Oct 19 is a warm-lead source.",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag deadlines",
-      "why": "Daily inbox hygiene \u2014 couldn't auto-check Gmail (permissions pending)",
+      "area": "music",
+      "task": "Pitch one DJ or business for a setlist or amapiano collab \u2014 leverage Twitch stream stats from yesterday's Jersey Club Radio session",
+      "why": "Standing daily goal. Twitch summary shows 3 unique viewers on the funeral stream and the 24/7 radio is live \u2014 use momentum.",
       "done": false
     },
     {
       "id": 5,
+      "priority": "med",
+      "area": "inbox",
+      "task": "Review and clean up inactive Google OAuth clients before auto-deletion",
+      "why": "Google AI Studio email: inactive OAuth clients subject to automatic deletion. Action advised.",
+      "done": false
+    },
+    {
+      "id": 6,
       "priority": "low",
-      "area": "home",
-      "task": "Bring recycling bins back in from curb",
-      "why": "Pickup was this morning (Tuesday)",
+      "area": "job",
+      "task": "Register for the Careers in Drug Safety & Pharmacovigilance webinar on Oct 19 and iMentor NYC info session Oct 23 or 24",
+      "why": "Eventbrite invites today. Drug safety webinar aligns with pharma job hunt; iMentor is networking.",
       "done": false
     }
   ]
