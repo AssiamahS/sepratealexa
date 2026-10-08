@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Apply to one Market Analyst or pharma role from the Indeed alert (Takeda Director of Scientific & Competitive Analysis or similar) \u2014 tailor resume to pharma analytics",
-      "why": "Indeed alert today: Takeda $177K-$278K + 20 Market Analyst jobs in Boston. Standing goal: act on one posting daily.",
+      "task": "Fix scipio failure_tests.py FORM-013 blocker so the auto-applier resumes \u2014 you're at 9/16 for the week",
+      "why": "[scipio] WAKE BLOCKED email: P0 salary/knockout failure blocking all applications since 19:00Z yesterday",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "inbox",
-      "task": "Call back (908) 275-5167 and (908) 362-7147 \u2014 two missed calls yesterday with no voicemail",
-      "why": "YouMail alerts Oct 6. Unknown 908 numbers could be recruiters or interview callbacks. No message left = time-sensitive.",
+      "task": "Call back ayo brendan (973-342-4819) and FIIFII (848-219-9196) \u2014 both called last night with no voicemail",
+      "why": "Two missed-call notifications from YouMail, real contacts waiting",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for the Mr. Bond deliverable \u2014 use LinkedIn Pharma & Medical Network group or Drug Safety webinar attendee list",
-      "why": "Standing daily goal. LinkedIn pharma group digest arrived today; Drug Safety webinar Oct 19 is a warm-lead source.",
+      "area": "job",
+      "task": "Apply to Foundation Medicine Technical Customer Success Specialist (remote) \u2014 tailor resume to health-tech + customer success",
+      "why": "LinkedIn job alert today; remote healthcare role fits profile. Standing goal: act on one posting daily",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or business for a setlist or amapiano collab \u2014 leverage Twitch stream stats from yesterday's Jersey Club Radio session",
-      "why": "Standing daily goal. Twitch summary shows 3 unique viewers on the funeral stream and the 24/7 radio is live \u2014 use momentum.",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 use the LinkedIn pharma lead (Michael Hughes, PharmD at US Market Access) as a warm opener",
+      "why": "Standing daily goal: one HCP outreach per day for MedChat",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "inbox",
-      "task": "Review and clean up inactive Google OAuth clients before auto-deletion",
-      "why": "Google AI Studio email: inactive OAuth clients subject to automatic deletion. Action advised.",
+      "area": "music",
+      "task": "Pitch one DJ or venue for amapiano/jersey club sets \u2014 Twitch stream ran overnight, use that as proof of concept",
+      "why": "Standing daily goal: one music pitch per day. metasly went live last night, fresh content to reference",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
-      "area": "job",
-      "task": "Register for the Careers in Drug Safety & Pharmacovigilance webinar on Oct 19 and iMentor NYC info session Oct 23 or 24",
-      "why": "Eventbrite invites today. Drug safety webinar aligns with pharma job hunt; iMentor is networking.",
+      "area": "inbox",
+      "task": "Review SpotAngels data breach notice and rotate any reused passwords",
+      "why": "Security breach notification from SpotAngels \u2014 personal data exposed",
       "done": false
     }
   ]
