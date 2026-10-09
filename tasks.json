@@ -1,52 +1,36 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
       "area": "job",
-      "task": "Fix scipio failure_tests.py FORM-013 blocker so the auto-applier resumes \u2014 you're at 9/16 for the week",
-      "why": "[scipio] WAKE BLOCKED email: P0 salary/knockout failure blocking all applications since 19:00Z yesterday",
+      "task": "Find one relevant posting (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
+      "why": "Standing daily goal \u2014 consistent pipeline beats batch panic",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "inbox",
-      "task": "Call back ayo brendan (973-342-4819) and FIIFII (848-219-9196) \u2014 both called last night with no voicemail",
-      "why": "Two missed-call notifications from YouMail, real contacts waiting",
+      "area": "medchat",
+      "task": "Reach out to one healthcare professional for MedChat feedback or onboarding",
+      "why": "Mr. Bond deliverable \u2014 one contact per day keeps the milestone on track",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
-      "area": "job",
-      "task": "Apply to Foundation Medicine Technical Customer Success Specialist (remote) \u2014 tailor resume to health-tech + customer success",
-      "why": "LinkedIn job alert today; remote healthcare role fits profile. Standing goal: act on one posting daily",
+      "area": "music",
+      "task": "Pitch one DJ or business \u2014 send setlist/amapiano package with a clear ask",
+      "why": "Standing daily goal \u2014 Friday pitches land on relaxed inboxes",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for Mr. Bond deliverable \u2014 use the LinkedIn pharma lead (Michael Hughes, PharmD at US Market Access) as a warm opener",
-      "why": "Standing daily goal: one HCP outreach per day for MedChat",
-      "done": false
-    },
-    {
-      "id": 5,
-      "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for amapiano/jersey club sets \u2014 Twitch stream ran overnight, use that as proof of concept",
-      "why": "Standing daily goal: one music pitch per day. metasly went live last night, fresh content to reference",
-      "done": false
-    },
-    {
-      "id": 6,
-      "priority": "low",
       "area": "inbox",
-      "task": "Review SpotAngels data breach notice and rotate any reused passwords",
-      "why": "Security breach notification from SpotAngels \u2014 personal data exposed",
+      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag deadlines",
+      "why": "Could not auto-scan Gmail (MCP permissions blocked) \u2014 manual pass needed",
       "done": false
     }
   ]
