@@ -1,36 +1,60 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-11",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Find one relevant posting (LinkedIn/Workday/NYU Langone), tailor resume, and submit application",
-      "why": "Standing daily goal \u2014 consistent pipeline beats batch panic",
+      "area": "inbox",
+      "task": "Reply to Molly's LinkedIn message \u2014 open the thread and respond today",
+      "why": "Direct message waiting since overnight; real human expecting a reply",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat feedback or onboarding",
-      "why": "Mr. Bond deliverable \u2014 one contact per day keeps the milestone on track",
+      "area": "job",
+      "task": "Complete Capital Health candidate account verification and submit application",
+      "why": "Email from capitalhealth@otp.workday.com with verify link sitting unactioned; Scipio is 13/16 for the week \u2014 need to close the gap",
       "done": false
     },
     {
       "id": 3,
       "priority": "high",
-      "area": "music",
-      "task": "Pitch one DJ or business \u2014 send setlist/amapiano package with a clear ask",
-      "why": "Standing daily goal \u2014 Friday pitches land on relaxed inboxes",
+      "area": "job",
+      "task": "Reset MSD/Workday password and finish the Merck application you started",
+      "why": "Three password-reset emails in one day means you started but didn't finish; complete it today",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "inbox",
-      "task": "Triage unread inbox \u2014 reply to any humans waiting, flag deadlines",
-      "why": "Could not auto-scan Gmail (MCP permissions blocked) \u2014 manual pass needed",
+      "area": "medchat",
+      "task": "Message one healthcare professional about MedChat \u2014 target a pharmacist or nurse practitioner on LinkedIn",
+      "why": "Standing Mr. Bond deliverable: one HCP outreach per day",
+      "done": false
+    },
+    {
+      "id": 5,
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch one DJ or venue for an amapiano/jersey-club set \u2014 send one cold email or DM",
+      "why": "Standing daily goal: one music business touchpoint",
+      "done": false
+    },
+    {
+      "id": 6,
+      "priority": "low",
+      "area": "job",
+      "task": "Review the Indeed Takeda Brand Insights & Analytics Lead posting ($160-242k) \u2014 apply if it fits",
+      "why": "Indeed alert surfaced it twice in 24h; remote-friendly, high comp",
+      "done": false
+    },
+    {
+      "id": 7,
+      "priority": "low",
+      "area": "home",
+      "task": "Claim free Chipotle queso \u2014 offer expires today (Sunday Oct 11)",
+      "why": "Chipotle email: exclusive offer deadline is today",
       "done": false
     }
   ]
