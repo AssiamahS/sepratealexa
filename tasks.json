@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Reply to Molly's LinkedIn message \u2014 open the thread and respond today",
-      "why": "Direct message waiting since overnight; real human expecting a reply",
+      "area": "job",
+      "task": "Complete pending Workday verifications (BCBS NJ, BCBS TN, Genworth, Moog) and submit Point72 Greenhouse application \u2014 security codes expire",
+      "why": "4 Workday verify emails + Point72 security code from yesterday; accounts lock if not confirmed",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
       "area": "job",
-      "task": "Complete Capital Health candidate account verification and submit application",
-      "why": "Email from capitalhealth@otp.workday.com with verify link sitting unactioned; Scipio is 13/16 for the week \u2014 need to close the gap",
+      "task": "Apply to Product Operations Lead at Thyme Care ($171-190k) \u2014 tailor resume to PM + data analysis angle",
+      "why": "Indeed match email yesterday; standing goal: act on one posting today",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
+      "priority": "med",
       "area": "job",
-      "task": "Reset MSD/Workday password and finish the Merck application you started",
-      "why": "Three password-reset emails in one day means you started but didn't finish; complete it today",
+      "task": "Return missed call from (800) 922-0204 'Follow-up Message' \u2014 likely recruiter or job-related callback",
+      "why": "YouMail voicemail notification yesterday 12:39 PM; no message left",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
       "area": "medchat",
-      "task": "Message one healthcare professional about MedChat \u2014 target a pharmacist or nurse practitioner on LinkedIn",
-      "why": "Standing Mr. Bond deliverable: one HCP outreach per day",
+      "task": "Reach out to one healthcare professional for MedChat \u2014 pitch or demo message",
+      "why": "Standing daily: Mr. Bond deliverable requires consistent outreach",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
       "area": "music",
-      "task": "Pitch one DJ or venue for an amapiano/jersey-club set \u2014 send one cold email or DM",
-      "why": "Standing daily goal: one music business touchpoint",
+      "task": "Pitch one DJ or venue for amapiano/jersey club set \u2014 use Twitch stream as proof of concept",
+      "why": "Standing daily: music business outreach; metasly Twitch stream went live yesterday",
       "done": false
     },
     {
       "id": 6,
       "priority": "low",
-      "area": "job",
-      "task": "Review the Indeed Takeda Brand Insights & Analytics Lead posting ($160-242k) \u2014 apply if it fits",
-      "why": "Indeed alert surfaced it twice in 24h; remote-friendly, high comp",
+      "area": "inbox",
+      "task": "Fix jobreels + post4me GitHub Actions \u2014 daily reel and daily draft workflows both failing",
+      "why": "CI failure emails from yesterday; scipio only hit 12/16 weekly target, broken pipelines hurt volume",
       "done": false
     },
     {
       "id": 7,
       "priority": "low",
       "area": "home",
-      "task": "Claim free Chipotle queso \u2014 offer expires today (Sunday Oct 11)",
-      "why": "Chipotle email: exclusive offer deadline is today",
+      "task": "Put recycling out tonight \u2014 Tuesday pickup",
+      "why": "Recurring Monday night chore",
       "done": false
     }
   ]
