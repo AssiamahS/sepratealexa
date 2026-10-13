@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "job",
-      "task": "Complete pending Workday verifications (BCBS NJ, BCBS TN, Genworth, Moog) and submit Point72 Greenhouse application \u2014 security codes expire",
-      "why": "4 Workday verify emails + Point72 security code from yesterday; accounts lock if not confirmed",
+      "area": "inbox",
+      "task": "Call back Ayo Brendan at (973) 342-4819 -- two missed calls today, no voicemail",
+      "why": "Real human, tried twice at 10:08 AM, no message left",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Apply to Product Operations Lead at Thyme Care ($171-190k) \u2014 tailor resume to PM + data analysis angle",
-      "why": "Indeed match email yesterday; standing goal: act on one posting today",
+      "area": "inbox",
+      "task": "Confirm attendance for ELJT Development Project meeting tomorrow (Wed Oct 14, 1-2pm EDT) via Google Meet from Omegachain",
+      "why": "Calendar invite from info@omegachain.net, meeting is <24h away",
       "done": false
     },
     {
       "id": 3,
-      "priority": "med",
+      "priority": "high",
       "area": "job",
-      "task": "Return missed call from (800) 922-0204 'Follow-up Message' \u2014 likely recruiter or job-related callback",
-      "why": "YouMail voicemail notification yesterday 12:39 PM; no message left",
+      "task": "Fix scipio FORM-013 blocker (salary/knockout question) so auto-apply wakes resume -- currently BLOCKED",
+      "why": "Two WAKE BLOCKED emails today; weekly submits 10/16, falling behind target",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 pitch or demo message",
-      "why": "Standing daily: Mr. Bond deliverable requires consistent outreach",
+      "area": "job",
+      "task": "Complete Baystate Health and BCBS NC candidate account setup (verify email + set passwords) and submit applications",
+      "why": "Password reset and verify emails received today -- accounts expire if not activated",
       "done": false
     },
     {
       "id": 5,
       "priority": "med",
-      "area": "music",
-      "task": "Pitch one DJ or venue for amapiano/jersey club set \u2014 use Twitch stream as proof of concept",
-      "why": "Standing daily: music business outreach; metasly Twitch stream went live yesterday",
+      "area": "medchat",
+      "task": "Reach out to ONE healthcare professional for MedChat (Mr. Bond deliverable)",
+      "why": "Standing daily goal -- MediPharm clinical research event on Eventbrite is a lead source",
       "done": false
     },
     {
       "id": 6,
-      "priority": "low",
-      "area": "inbox",
-      "task": "Fix jobreels + post4me GitHub Actions \u2014 daily reel and daily draft workflows both failing",
-      "why": "CI failure emails from yesterday; scipio only hit 12/16 weekly target, broken pipelines hurt volume",
+      "priority": "med",
+      "area": "music",
+      "task": "Pitch ONE DJ or business for setlist / amapiano collaboration",
+      "why": "Standing daily goal -- music outreach",
       "done": false
     },
     {
       "id": 7,
       "priority": "low",
       "area": "home",
-      "task": "Put recycling out tonight \u2014 Tuesday pickup",
-      "why": "Recurring Monday night chore",
+      "task": "Confirm recycling bins went out last night (pickup is today, Tuesday)",
+      "why": "Recurring Monday-night task -- verify it happened",
       "done": false
     }
   ]
