@@ -1,60 +1,52 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "tasks": [
     {
       "id": 1,
       "priority": "high",
-      "area": "inbox",
-      "task": "Review Ticketmaster mobile entry instructions for Celtics v 76ers preseason game tonight",
-      "why": "Game is TODAY \u2014 mobile entry email from Ticketmaster needs to be checked before tip-off",
+      "area": "job",
+      "task": "Apply to one role from Indeed alerts \u2014 Gilead Associate National Account Director or Accenture Insights Lead look strongest. Scipio logged only 7/16 for the week; close the gap today.",
+      "why": "Scipio daily report shows 0 confirmed submits yesterday, 7 of 16 weekly target. Indeed alerts have $120k-$340k roles open now.",
       "done": false
     },
     {
       "id": 2,
       "priority": "high",
-      "area": "job",
-      "task": "Complete Revolution Medicines application \u2014 enter security code t1VODqTS and resubmit",
-      "why": "Greenhouse security code email from yesterday; application incomplete until code is entered",
+      "area": "inbox",
+      "task": "Call back (732) 570-2720 \u2014 they called 3+ times in 24 hours and left no voicemail. Also return Kevin Kofi Manu's call at (732) 543-6711.",
+      "why": "Multiple missed calls from same number across Thu night and Fri suggest urgency. Kevin called once mid-day.",
       "done": false
     },
     {
       "id": 3,
-      "priority": "high",
-      "area": "job",
-      "task": "Reset BMC Workday password and finish that application",
-      "why": "Password reset email received; application is blocked until password is set",
+      "priority": "med",
+      "area": "medchat",
+      "task": "Message one healthcare professional on LinkedIn about MedChat \u2014 the 7 pending invitations include a Sunrise Senior Living contact and Path to Peace Counseling posted about hiring.",
+      "why": "Standing Mr. Bond deliverable: one HCP outreach per day.",
       "done": false
     },
     {
       "id": 4,
       "priority": "med",
-      "area": "job",
-      "task": "Review Scipio pipeline \u2014 9/16 weekly target, pick one Indeed alert (Gilead $191-247k or Konovo $95-115k) and tailor+submit",
-      "why": "Scipio report shows behind pace (9 of 16); two fresh Indeed alerts worth evaluating",
+      "area": "music",
+      "task": "Pitch one DJ or venue for the amapiano/jersey club setlist. Twitch stream hit 9 unique viewers on the 34h stream \u2014 use that as proof of concept.",
+      "why": "Standing daily goal. Stream metrics give a talking point for the pitch.",
       "done": false
     },
     {
       "id": 5,
-      "priority": "med",
-      "area": "inbox",
-      "task": "Verify new Schwab accounts (ending 790 and 045) and confirm MoneyLink transfer setup",
-      "why": "Three Schwab emails yesterday \u2014 two new accounts opened, one MoneyLink in progress",
+      "priority": "low",
+      "area": "job",
+      "task": "Finish the BMC application \u2014 password reset email from Workday is sitting in inbox. Reset, complete, submit.",
+      "why": "BMC sent a candidate password reset Oct 16, meaning an application is in progress but incomplete.",
       "done": false
     },
     {
       "id": 6,
-      "priority": "med",
-      "area": "medchat",
-      "task": "Reach out to one healthcare professional for MedChat \u2014 Mr. Bond deliverable",
-      "why": "Standing daily goal: one HCP outreach per day",
-      "done": false
-    },
-    {
-      "id": 7,
       "priority": "low",
-      "area": "music",
-      "task": "Pitch one DJ or venue for a setlist or amapiano booking",
-      "why": "Standing daily goal: one music business outreach per day",
+      "area": "inbox",
+      "task": "Review updated Apple App Review Guidelines and note anything affecting piKeyboard or other App Store submissions.",
+      "why": "Apple developer email Oct 16: revised guidelines with new features and updated policies.",
       "done": false
     }
   ]
